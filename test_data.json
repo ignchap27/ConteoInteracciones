@@ -1,0 +1,4484 @@
+[
+  {
+    "uuid": "8868380b-b660-4c84-9a92-a5a5b7b314fa",
+    "lastsessionid": "5c559bd1-4d93-4705-b43a-d8021af8f34c",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-07-29T15:52:00.000Z",
+    "fechafinalint": "2025-07-29T15:57:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria24H"
+  },
+  {
+    "uuid": "4211361d-b0b6-43c7-bd69-bc258669f7b2",
+    "lastsessionid": "bfeda63c-3cab-459e-af65-a04d76145daa",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-07-29T16:40:00.000Z",
+    "fechafinalint": "2025-07-29T16:45:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d27d93ac-d5ea-403e-af39-69f48de4f076",
+    "lastsessionid": "ee3c8b60-3650-40fe-a326-32875f78b922",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-07-29T16:47:00.000Z",
+    "fechafinalint": "2025-07-29T16:52:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6cf250ce-fb41-4c7c-99fa-dabcd8d65a94",
+    "lastsessionid": "4f6856e4-e605-47b6-9bf6-73305672f193",
+    "email": null,
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-08T17:11:00.000Z",
+    "fechafinalint": "2025-08-08T17:16:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "d188aa96-7b40-4985-a2fd-586cc6a4fd49",
+    "lastsessionid": "4993d4fe-1652-402d-aeb9-b7921850b2b1",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-01T15:12:00.000Z",
+    "fechafinalint": "2025-08-01T15:17:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "399c071a-8a51-4c4c-b1d8-b5b77ab2bb0a",
+    "lastsessionid": "c4deb48c-4e62-4936-a2ea-44cde5dbab2d",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-07-29T17:02:00.000Z",
+    "fechafinalint": "2025-07-29T17:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8c06a82b-fbba-43bf-b3f6-25ca05412d3c",
+    "lastsessionid": "05d654c5-ddcd-4b35-b50c-496e3a4105fe",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-07-29T17:08:00.000Z",
+    "fechafinalint": "2025-07-29T17:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "48725f0f-1db9-43a3-a18e-72d280d7c9a8",
+    "lastsessionid": "12683744-0a0c-44a7-8300-5d66999f706f",
+    "email": "d-pradil@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-06T12:09:00.000Z",
+    "fechafinalint": "2025-08-06T12:14:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "18323358-a527-4f29-a395-5f7ed93f10dd",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-06T06:14:00.000Z",
+    "fechafinalint": "2025-08-06T06:19:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "257b1143-56da-4662-8a56-c1f0acf8fa1a",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-06T06:24:00.000Z",
+    "fechafinalint": "2025-08-06T06:29:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f28864df-9e30-4885-b2f5-0e33d10645af",
+    "lastsessionid": "40d0201c-2467-4aba-99fb-64469d2af7ab",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 11,
+    "fechainicialint": "2025-07-29T13:46:00.000Z",
+    "fechafinalint": "2025-07-29T13:51:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria24H"
+  },
+  {
+    "uuid": "1280c1f9-1e3e-434a-bfae-45a3459b841d",
+    "lastsessionid": "59f6aaec-c9a2-40a6-b2ff-14784c44942f",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-07-29T14:03:00.000Z",
+    "fechafinalint": "2025-07-29T14:08:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria24H"
+  },
+  {
+    "uuid": "3c56d24f-0113-4447-83bd-23101a977c33",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-06T06:33:00.000Z",
+    "fechafinalint": "2025-08-06T06:38:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "dfd3f187-48d2-47b8-a896-170b1e2ee36d",
+    "lastsessionid": "05d654c5-ddcd-4b35-b50c-496e3a4105fe",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 8,
+    "fechainicialint": "2025-07-29T17:15:00.000Z",
+    "fechafinalint": "2025-07-29T17:20:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "35e5e840-b413-4fb4-8055-b9bd793460be",
+    "lastsessionid": "6d9f6829-b030-4810-9bd5-2b4a9118368e",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-08T17:13:00.000Z",
+    "fechafinalint": "2025-08-08T17:18:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "648d7deb-2887-4d2e-975b-2995c11224aa",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-06T06:41:00.000Z",
+    "fechafinalint": "2025-08-06T06:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0842e7bd-c6aa-4e35-9155-e989b9c5011a",
+    "lastsessionid": "7fed1d14-ff47-4a1c-b51c-91c7b0aad34e",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-08T06:50:00.000Z",
+    "fechafinalint": "2025-08-08T06:55:00.000Z",
+    "modelo": "ICYA2401_Tutor_Mecanica_Fluidos"
+  },
+  {
+    "uuid": "7bc7e6e6-8c74-4e97-aec8-3fd0c08b1a72",
+    "lastsessionid": "5c559bd1-4d93-4705-b43a-d8021af8f34c",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 11,
+    "fechainicialint": "2025-07-29T15:46:00.000Z",
+    "fechafinalint": "2025-07-29T15:51:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria24H"
+  },
+  {
+    "uuid": "d8659a22-4651-4559-a40b-e0a9650362bd",
+    "lastsessionid": "05d654c5-ddcd-4b35-b50c-496e3a4105fe",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 8,
+    "fechainicialint": "2025-07-29T17:21:00.000Z",
+    "fechafinalint": "2025-07-29T17:26:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2ccd6919-d19c-479c-9929-0953498a6215",
+    "lastsessionid": "d4a6fd93-5837-453e-8503-360dc4c0417c",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-08T17:49:00.000Z",
+    "fechafinalint": "2025-08-08T17:54:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "df889e52-30f0-4a39-ae51-ee91c234eac4",
+    "lastsessionid": "7945bf23-6635-4f10-baa9-1891873ab320",
+    "email": "d-pradil@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-07-30T17:44:00.000Z",
+    "fechafinalint": "2025-07-30T17:49:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a055e46f-38a5-4f21-9e2b-25aa9295d702",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-06T06:48:00.000Z",
+    "fechafinalint": "2025-08-06T06:53:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ae1ccfe1-a512-4667-8cf7-884ff5a4bf87",
+    "lastsessionid": "435e60ed-145b-4a90-a57b-d16029719b0b",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-11T17:03:00.000Z",
+    "fechafinalint": "2025-08-11T17:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b5f12315-3b99-480b-b067-eb25c882c205",
+    "lastsessionid": "7945bf23-6635-4f10-baa9-1891873ab320",
+    "email": "d-pradil@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-07-30T17:51:00.000Z",
+    "fechafinalint": "2025-07-30T17:56:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1975b529-1e88-4af1-bf6e-2eabb864b2eb",
+    "lastsessionid": "251a03c3-2f4a-4cd9-b34a-374d3a3722b8",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-08T06:57:00.000Z",
+    "fechafinalint": "2025-08-08T07:02:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "ccb3df92-cd49-40a7-a19b-4d7d3d39f179",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-06T06:56:00.000Z",
+    "fechafinalint": "2025-08-06T07:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1952cdda-d75a-42c2-a5f9-31d4284984a9",
+    "lastsessionid": "a937bde1-5c59-47a1-b568-de36863df744",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-08T06:11:00.000Z",
+    "fechafinalint": "2025-08-08T06:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b45c50e0-58ee-435d-8ee5-c9adf8a3cb68",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-06T07:02:00.000Z",
+    "fechafinalint": "2025-08-06T07:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "88d65797-2cd9-4491-b9df-2c34632a16c1",
+    "lastsessionid": "1b8e43ba-4c73-488a-a593-08450cf086b8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-06T07:57:00.000Z",
+    "fechafinalint": "2025-08-06T08:02:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "fde75f1e-9122-4732-ab8c-25716409f1de",
+    "lastsessionid": "7fed1d14-ff47-4a1c-b51c-91c7b0aad34e",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-08T06:29:00.000Z",
+    "fechafinalint": "2025-08-08T06:34:00.000Z",
+    "modelo": "ICYA2401_Tutor_Mecanica_Fluidos"
+  },
+  {
+    "uuid": "89bd74f8-9bf8-4c3c-b476-195c6168e78a",
+    "lastsessionid": "7fed1d14-ff47-4a1c-b51c-91c7b0aad34e",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-08T06:37:00.000Z",
+    "fechafinalint": "2025-08-08T06:42:00.000Z",
+    "modelo": "ICYA2401_Tutor_Mecanica_Fluidos"
+  },
+  {
+    "uuid": "031741bd-e9de-41b1-b74b-edf6743a2b1b",
+    "lastsessionid": "bf4f3033-c75c-4fbc-bd9d-43f5e2c4b143",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-08T06:59:00.000Z",
+    "fechafinalint": "2025-08-08T07:04:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Inverso"
+  },
+  {
+    "uuid": "d5379abd-abf0-40e3-9e07-159f00681f02",
+    "lastsessionid": "7fed1d14-ff47-4a1c-b51c-91c7b0aad34e",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-08T06:44:00.000Z",
+    "fechafinalint": "2025-08-08T06:49:00.000Z",
+    "modelo": "ICYA2401_Tutor_Mecanica_Fluidos"
+  },
+  {
+    "uuid": "0cb380b2-c015-40a2-b9a6-962fc9474d6a",
+    "lastsessionid": "f6ee3f75-77a7-4ef5-8393-9a8436217611",
+    "email": "j.gutierrezc@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-08T08:51:00.000Z",
+    "fechafinalint": "2025-08-08T08:56:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "c67280d7-6825-4cdf-a59e-765124b0037f",
+    "lastsessionid": "701c37a6-9388-4d97-864e-528240a12264",
+    "email": "j.gutierrezc@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-08T09:04:00.000Z",
+    "fechafinalint": "2025-08-08T09:09:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "7d7afc9a-32ae-4e25-aec8-38cea1c7cb94",
+    "lastsessionid": "7fb65aa1-61d3-4ad6-8cc8-413eb7b38f05",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-11T16:46:00.000Z",
+    "fechafinalint": "2025-08-11T16:51:00.000Z",
+    "modelo": "BioFlowModulo3"
+  },
+  {
+    "uuid": "834a3092-65f7-4791-91e6-d207c8e7aec0",
+    "lastsessionid": "44141140-faa9-4726-92c2-7acea5840802",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-11T17:09:00.000Z",
+    "fechafinalint": "2025-08-11T17:14:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6fed48af-c9b7-4e69-8882-9f9de3acfecc",
+    "lastsessionid": "81eeb7e6-9d40-49da-a2ac-a04a5dead994",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-11T06:04:00.000Z",
+    "fechafinalint": "2025-08-11T06:09:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "04900642-82e0-477f-8736-8e848af74cba",
+    "lastsessionid": "a2dad071-b80a-4780-b1fb-42d1f106a385",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-11T17:54:00.000Z",
+    "fechafinalint": "2025-08-11T17:59:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "867d6992-21bf-4d4e-a3c6-0518cfbbc7f1",
+    "lastsessionid": "981496c8-dffa-4642-ad7f-38649ed805d7",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-11T06:13:00.000Z",
+    "fechafinalint": "2025-08-11T06:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "14b11a94-ba0a-4295-a427-8155a1ed1651",
+    "lastsessionid": "f71ee3ee-c7fa-4818-b51d-c044a181e8ed",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 9,
+    "fechainicialint": "2025-08-11T07:05:00.000Z",
+    "fechafinalint": "2025-08-11T07:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b50416ea-3e04-4017-b244-763b84434f43",
+    "lastsessionid": "83d2ceb9-055b-40b9-97d9-73507bfb1d14",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 11,
+    "fechainicialint": "2025-08-11T07:14:00.000Z",
+    "fechafinalint": "2025-08-11T07:19:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "72ac4bd4-8795-4111-9261-091f19ec72af",
+    "lastsessionid": "77369643-7eae-401a-b73e-91ed174c0607",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-11T07:20:00.000Z",
+    "fechafinalint": "2025-08-11T07:25:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ab4e03f9-e907-4e65-ba81-3e21970430be",
+    "lastsessionid": null,
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-11T07:30:00.000Z",
+    "fechafinalint": "2025-08-11T07:35:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "4cd19c54-9347-46a5-8354-4868bf1eda87",
+    "lastsessionid": "133446b8-4102-4560-99a3-2f74d209d04a",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-11T07:34:00.000Z",
+    "fechafinalint": "2025-08-11T07:39:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "81b1f637-2fc2-442e-9d48-e19654aab9bb",
+    "lastsessionid": "0817e9cf-e275-46ba-beaf-07b26dd630d8",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-11T08:39:00.000Z",
+    "fechafinalint": "2025-08-11T08:44:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b954eb41-9fff-42a1-9943-c8d07fa97e6b",
+    "lastsessionid": "d4147cb2-8d3a-4f4e-be95-7252996e187b",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-11T08:48:00.000Z",
+    "fechafinalint": "2025-08-11T08:53:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "dc7f11a2-6c80-45e0-bc39-8bafa8ee8e8c",
+    "lastsessionid": "a87cf6cb-18f1-476b-a345-c6da60c8c07e",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-11T08:58:00.000Z",
+    "fechafinalint": "2025-08-11T09:03:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7ddd18a9-fb05-4ed1-af01-a3f1e9b858c5",
+    "lastsessionid": "bda8ce56-5f05-4f34-9ad7-a4209e95c909",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-11T09:04:00.000Z",
+    "fechafinalint": "2025-08-11T09:09:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "5289245f-161f-462d-924a-a29c8184b59c",
+    "lastsessionid": "bda8ce56-5f05-4f34-9ad7-a4209e95c909",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-11T09:48:00.000Z",
+    "fechafinalint": "2025-08-11T09:53:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "378c03d0-2b17-48dc-a678-a2aa5d2b2cb2",
+    "lastsessionid": "cf9256c6-d83b-4341-801a-50e26da9ab59",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-12T15:35:00.000Z",
+    "fechafinalint": "2025-08-12T15:40:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "14f0fa49-02ba-41c7-9bac-a7f8ec567b50",
+    "lastsessionid": "df1761f8-cdc2-42ce-86c2-76687551e276",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-14T15:12:00.000Z",
+    "fechafinalint": "2025-08-14T15:17:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Inverso"
+  },
+  {
+    "uuid": "57dfcc7a-1dad-4a7a-ad0e-7d790dd683dc",
+    "lastsessionid": "79034727-6d74-43b0-b9b2-6e310e69ea2e",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-12T15:41:00.000Z",
+    "fechafinalint": "2025-08-12T15:46:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "a98f318f-bdbc-4b46-91c1-917d8010a3e8",
+    "lastsessionid": "c46ccd1e-ad67-424c-9aa7-191b5adf3331",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-12T15:57:00.000Z",
+    "fechafinalint": "2025-08-12T16:02:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "701bca8a-7de4-4a91-a0f2-a41890d33782",
+    "lastsessionid": "4bc94817-3d95-46f6-803d-96e9d2966f5c",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-13T15:11:00.000Z",
+    "fechafinalint": "2025-08-13T15:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "34a06c26-4e68-45e1-b5b2-017b30147051",
+    "lastsessionid": "62412ebf-06a4-4e47-b023-856811553fc4",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 10,
+    "fechainicialint": "2025-08-12T16:49:00.000Z",
+    "fechafinalint": "2025-08-12T16:54:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "23275a26-1063-4e62-a6c0-40616e93c403",
+    "lastsessionid": "522680ef-935d-4fb5-9d22-9ecfd1f28505",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-12T16:55:00.000Z",
+    "fechafinalint": "2025-08-12T17:00:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "93e7407c-dbc1-4f07-9eb1-f77649b06ace",
+    "lastsessionid": "4bc94817-3d95-46f6-803d-96e9d2966f5c",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-13T15:19:00.000Z",
+    "fechafinalint": "2025-08-13T15:24:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ff93d104-28c1-4aa5-a9de-c386bee50442",
+    "lastsessionid": "a204ba1d-5a8c-42a9-a0eb-69747889fdba",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 9,
+    "fechainicialint": "2025-08-12T16:02:00.000Z",
+    "fechafinalint": "2025-08-12T16:07:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "408a9262-e8bc-4e7b-a23f-a5e471f5e1d3",
+    "lastsessionid": "716ad662-27df-4a03-aca4-650374b42327",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-13T16:13:00.000Z",
+    "fechafinalint": "2025-08-13T16:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e86be600-a57f-439c-a8ec-fc764a66e144",
+    "lastsessionid": "00eeef29-2a4b-4e86-810d-17f61605440c",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-12T16:28:00.000Z",
+    "fechafinalint": "2025-08-12T16:33:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "6b82ba92-fab1-4b4a-b199-7e931411072b",
+    "lastsessionid": "dda30e99-67b2-40ff-a690-7c89980f3bce",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-12T16:38:00.000Z",
+    "fechafinalint": "2025-08-12T16:43:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "01dcf5a9-a1ec-47fb-af30-b4c55db21cd4",
+    "lastsessionid": "451576fe-d589-4caf-ac8c-d289591e0ec8",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-12T17:30:00.000Z",
+    "fechafinalint": "2025-08-12T17:35:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "949349ab-e0fc-41cf-80d3-c5290006b874",
+    "lastsessionid": "912fb699-752e-4bac-80be-85b66c789940",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-13T15:26:00.000Z",
+    "fechafinalint": "2025-08-13T15:31:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "269e830b-8c45-475b-8c37-00156e41e76c",
+    "lastsessionid": "7273ef5e-6965-40c8-a1d2-aa5adeddb24c",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-12T17:37:00.000Z",
+    "fechafinalint": "2025-08-12T17:42:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "51bf1fe7-be56-484e-9bc7-17ce503c76ec",
+    "lastsessionid": "912fb699-752e-4bac-80be-85b66c789940",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-13T15:32:00.000Z",
+    "fechafinalint": "2025-08-13T15:37:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "41814757-698e-4522-a11f-5f40792df4b1",
+    "lastsessionid": "2c668acd-d430-4fa5-a280-26cfc20def58",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-13T11:58:00.000Z",
+    "fechafinalint": "2025-08-13T12:03:00.000Z",
+    "modelo": "IQYA1031EcuacionesLinealesAzure"
+  },
+  {
+    "uuid": "a145ff93-003d-47ba-b5d8-7c31a9bdcec4",
+    "lastsessionid": "72bb394b-7b50-4613-99d1-9fe04215a713",
+    "email": "d-pradil@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-13T08:52:00.000Z",
+    "fechafinalint": "2025-08-13T08:57:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2e235d31-bd2c-4ac3-87b7-a81d446f958c",
+    "lastsessionid": "67522c07-9e5f-4493-bd78-6ff14fdf7fde",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-13T15:41:00.000Z",
+    "fechafinalint": "2025-08-13T15:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "386829c2-82f6-4156-b21f-a4a134f9a7f2",
+    "lastsessionid": "981496c8-dffa-4642-ad7f-38649ed805d7",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 8,
+    "fechainicialint": "2025-08-13T14:50:00.000Z",
+    "fechafinalint": "2025-08-13T14:55:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2986e588-b386-41b8-9149-c3119e0d60d6",
+    "lastsessionid": "0aad64e2-5f04-41c4-bc59-d79ae1b92415",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-13T11:03:00.000Z",
+    "fechafinalint": "2025-08-13T11:08:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "c7da3bd8-a385-4197-8b7d-486ccae0798e",
+    "lastsessionid": "ccee9653-70e1-402a-bdac-284f4a95a519",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-13T16:06:00.000Z",
+    "fechafinalint": "2025-08-13T16:11:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8c968c24-1b5c-440b-ab68-91314bdccd92",
+    "lastsessionid": "29edf214-3fc5-437e-8f8c-a53e836aa065",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-14T15:41:00.000Z",
+    "fechafinalint": "2025-08-14T15:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "5a759ed4-c0fb-4b44-94d0-fcd57dff594f",
+    "lastsessionid": "55ce6fed-bae3-4f9e-9656-baf4823e7bcd",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-13T11:18:00.000Z",
+    "fechafinalint": "2025-08-13T11:23:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "6dd71d19-b287-46e0-8b9c-7b97c3bf4418",
+    "lastsessionid": "a296fe5a-b871-4c5c-bad5-32ca824712f4",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-13T11:25:00.000Z",
+    "fechafinalint": "2025-08-13T11:30:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "cb5e5311-9032-4852-825c-c5b922791fc3",
+    "lastsessionid": "dbe10be7-b39f-48cc-aed0-199b63044653",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-14T16:12:00.000Z",
+    "fechafinalint": "2025-08-14T16:17:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "17ef01f8-741a-46ae-adfb-3ec697211f27",
+    "lastsessionid": "ccfab2c5-db4f-430c-89f1-c0aea883672a",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-14T15:49:00.000Z",
+    "fechafinalint": "2025-08-14T15:54:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c58bff84-a5a2-44fa-9259-bc052d376d53",
+    "lastsessionid": "764a6d3e-c6f0-4045-a3c8-0781e48edaa8",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-14T14:50:00.000Z",
+    "fechafinalint": "2025-08-14T14:55:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "bb95a3ce-86d9-43b9-a51b-acbcf6b5f4e4",
+    "lastsessionid": "29edf214-3fc5-437e-8f8c-a53e836aa065",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-14T15:13:00.000Z",
+    "fechafinalint": "2025-08-14T15:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "379e8b1a-f249-458b-9d9f-ec7da443de36",
+    "lastsessionid": "c973fb04-77fc-414b-8015-9eddcb23f77c",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-14T16:04:00.000Z",
+    "fechafinalint": "2025-08-14T16:09:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "616dc58a-c6cb-42c5-b298-038f2000049f",
+    "lastsessionid": "71334820-02cb-4944-b80f-360deaf08d5c",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-14T16:05:00.000Z",
+    "fechafinalint": "2025-08-14T16:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLinealesAzure"
+  },
+  {
+    "uuid": "eb65ec8c-701e-4f19-b32c-b29e289857cf",
+    "lastsessionid": "a53d3241-d1b6-42f3-aa22-656c660d12da",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-14T17:10:00.000Z",
+    "fechafinalint": "2025-08-14T17:15:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "32c40425-69b9-4c77-8070-fa4879889d7c",
+    "lastsessionid": "1f0f07f4-7702-48e3-86f4-791a7ea5ddc7",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-15T14:56:00.000Z",
+    "fechafinalint": "2025-08-15T15:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7665a5ef-8d53-4249-b157-f6a021bc98dd",
+    "lastsessionid": "1f0f07f4-7702-48e3-86f4-791a7ea5ddc7",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-15T15:11:00.000Z",
+    "fechafinalint": "2025-08-15T15:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "5fae4ffe-82aa-4ad6-af4d-b5777bfdb95d",
+    "lastsessionid": "1f0f07f4-7702-48e3-86f4-791a7ea5ddc7",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-15T15:03:00.000Z",
+    "fechafinalint": "2025-08-15T15:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "be406ace-d5e8-47bf-aee7-19b84478d1c8",
+    "lastsessionid": "e0e682bb-e62f-4d8f-b033-65b7fe5be32e",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-15T16:13:00.000Z",
+    "fechafinalint": "2025-08-15T16:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6c0e4ed5-e984-459a-abde-499305b33f56",
+    "lastsessionid": "dfcc18d1-53ec-4341-b0cb-4480ba459597",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-25T06:35:00.000Z",
+    "fechafinalint": "2025-08-25T06:40:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "98c8b4b3-33f2-420a-b28c-059592766795",
+    "lastsessionid": "5082fdd8-03a1-4045-ad16-ed8590837b12",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-25T06:37:00.000Z",
+    "fechafinalint": "2025-08-25T06:42:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "76fec658-bf93-4f36-9b90-d531dcb7daab",
+    "lastsessionid": "c9da92b4-719c-4db6-85f2-f77b7580bda9",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-25T06:42:00.000Z",
+    "fechafinalint": "2025-08-25T06:47:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0eb018fd-b217-4120-a31e-c598d5c8296f",
+    "lastsessionid": "68ef61c3-7b78-4e8b-b5d9-541ab85f66d6",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-25T07:01:00.000Z",
+    "fechafinalint": "2025-08-25T07:06:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0fe73211-1af9-44c6-8966-44d39a73bc8e",
+    "lastsessionid": "517d0b12-45e8-4f07-9b1a-028a45b1a3ce",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-24T16:21:00.000Z",
+    "fechafinalint": "2025-08-24T16:26:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "204f317b-b1a7-453e-8ff1-ee03002143b6",
+    "lastsessionid": "97174aba-d841-4bbe-9088-9b0ac614f7e9",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 9,
+    "fechainicialint": "2025-08-15T16:18:00.000Z",
+    "fechafinalint": "2025-08-15T16:23:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b64bfe3e-437a-41b2-ba05-feb3dd214538",
+    "lastsessionid": "4774433b-e1e2-47ef-8e78-e81634fff1c2",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-15T16:24:00.000Z",
+    "fechafinalint": "2025-08-15T16:29:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6843bde0-ec16-40bd-a702-1880b52b0b4f",
+    "lastsessionid": "e14a8120-4879-406c-8fc3-3a4c5ff7178c",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-18T15:30:00.000Z",
+    "fechafinalint": "2025-08-18T15:35:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "3af1ee3b-f025-4ae1-a19a-8013ffa90e4e",
+    "lastsessionid": "b30001a4-8803-4181-b2c3-7c6d7cbbac05",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-25T15:05:00.000Z",
+    "fechafinalint": "2025-08-25T15:10:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "918b8718-4c3e-4d47-ae8b-246bace7a657",
+    "lastsessionid": "302df58c-3dd7-45e5-94f6-89c3216cdc93",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-19T11:22:00.000Z",
+    "fechafinalint": "2025-08-19T11:27:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "17e91c27-d155-4ac1-be74-752b5fc0a1fa",
+    "lastsessionid": "da4d3ed0-4632-41a7-bebf-006fbff3310b",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-20T13:31:00.000Z",
+    "fechafinalint": "2025-08-20T13:36:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1a3cd30c-15e2-4985-a1c5-cb6bf4af7fab",
+    "lastsessionid": "b30001a4-8803-4181-b2c3-7c6d7cbbac05",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-25T15:11:00.000Z",
+    "fechafinalint": "2025-08-25T15:16:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "45c7672f-07ae-483a-9077-a0beb4f70b26",
+    "lastsessionid": "aca624b5-f2b1-469a-a6ed-76684384fb94",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-25T15:24:00.000Z",
+    "fechafinalint": "2025-08-25T15:29:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f78ea62b-0432-4ecc-b013-78fb09664cfb",
+    "lastsessionid": "ad14a2fd-7e8d-40eb-9aff-6de66ed7e868",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-20T15:10:00.000Z",
+    "fechafinalint": "2025-08-20T15:15:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8824abf5-e8c0-4040-bbea-5537cc8e361d",
+    "lastsessionid": "ad14a2fd-7e8d-40eb-9aff-6de66ed7e868",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-20T15:19:00.000Z",
+    "fechafinalint": "2025-08-20T15:24:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "34f8d22e-e2fa-4ab4-aae5-9dd43eb05df9",
+    "lastsessionid": "70544749-b0d8-4b77-b4a7-3484519490a1",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-20T16:46:00.000Z",
+    "fechafinalint": "2025-08-20T16:51:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4325d5cb-db0c-4d2f-abaa-08748cb0cb53",
+    "lastsessionid": "4872b211-23ca-4fc4-9572-a855e8ab0573",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-20T16:56:00.000Z",
+    "fechafinalint": "2025-08-20T17:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "859602b4-060c-40da-90e7-cf4c7481e482",
+    "lastsessionid": "787c3877-992a-4936-9b50-fb7cb0940c96",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-20T09:21:00.000Z",
+    "fechafinalint": "2025-08-20T09:26:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d063d06d-9c11-45a1-b9cb-7c874deadc18",
+    "lastsessionid": "8fc22681-e631-4692-bf4f-706a531387bc",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-21T08:50:00.000Z",
+    "fechafinalint": "2025-08-21T08:55:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "a04d4984-ceec-4f07-9783-4bcc07edd615",
+    "lastsessionid": "afc07e3b-4974-4490-9816-9b94c8eb0a56",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-22T17:31:00.000Z",
+    "fechafinalint": "2025-08-22T17:36:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "956d6050-bf5a-4c9a-88c9-3027d4be7788",
+    "lastsessionid": "99d78597-941e-4704-94bb-5ac50fafb1e7",
+    "email": "m.urango@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-22T14:41:00.000Z",
+    "fechafinalint": "2025-08-22T14:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7d80e09d-7c29-4031-aed7-020a18c9eef5",
+    "lastsessionid": "9fc49e8c-df51-4031-b251-64da31a9327d",
+    "email": "m.urango@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-22T06:47:00.000Z",
+    "fechafinalint": "2025-08-22T06:52:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "87b2b08b-a437-43b8-b994-784229ca5535",
+    "lastsessionid": "8d583620-bdc2-4e5a-b918-61291791ffe3",
+    "email": "p.torresp@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-23T09:44:00.000Z",
+    "fechafinalint": "2025-08-23T09:49:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ae95f143-519e-43a9-bbc1-230d36a1e0ea",
+    "lastsessionid": "5e8016ad-2ac3-41a9-9be8-440a9dbb4f63",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-24T15:29:00.000Z",
+    "fechafinalint": "2025-08-24T15:34:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0d2bd401-bf8f-4464-ab71-9a32c475fd04",
+    "lastsessionid": "99cfe30c-dea5-4993-aa76-642191a3e30e",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-25T07:13:00.000Z",
+    "fechafinalint": "2025-08-25T07:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "3059de09-f7a7-4e99-9b3b-4cdf476a9f7a",
+    "lastsessionid": "d30bf0b7-b8ed-4d7f-8560-f17cebc08722",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-25T15:50:00.000Z",
+    "fechafinalint": "2025-08-25T15:55:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e735425a-0922-456a-b335-ad1eff6c22b7",
+    "lastsessionid": "3732c060-ae00-41ee-b3c2-6d94aa724014",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-24T15:30:00.000Z",
+    "fechafinalint": "2025-08-24T15:35:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "adbd839e-985d-4617-8aeb-4b32f29fa9f2",
+    "lastsessionid": "d30bf0b7-b8ed-4d7f-8560-f17cebc08722",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-25T15:56:00.000Z",
+    "fechafinalint": "2025-08-25T16:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ab02b0b4-4aab-41ed-a3f5-d8e463af5114",
+    "lastsessionid": "dc2868a5-b5a6-4479-8a75-85352b7a2dc8",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-25T16:04:00.000Z",
+    "fechafinalint": "2025-08-25T16:09:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "632b5da7-7569-4a44-804d-e1081c4b4c93",
+    "lastsessionid": "038d5b8c-9b5e-4759-9548-d4dc70165f15",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-25T16:50:00.000Z",
+    "fechafinalint": "2025-08-25T16:55:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "e8b1e598-6894-4a26-899a-da3c77da92ba",
+    "lastsessionid": "048ecf39-d670-497d-8b66-8bb20c6e7c14",
+    "email": "a.bohorquezg@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-25T09:35:00.000Z",
+    "fechafinalint": "2025-08-25T09:40:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d049e7f7-8da6-4f4f-8d39-99c06e3593d6",
+    "lastsessionid": "75ae6f26-18ec-4ff5-a796-1df02abd502a",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-25T09:47:00.000Z",
+    "fechafinalint": "2025-08-25T09:52:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "09e26e0f-590f-45b4-93b4-a64dca636c86",
+    "lastsessionid": "d053cc4a-1cd3-42cf-95fe-d2477d90a852",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-26T16:25:00.000Z",
+    "fechafinalint": "2025-08-26T16:30:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "62307097-2c5a-41f6-9b78-5d71a21fce31",
+    "lastsessionid": "d4a6fd93-5837-453e-8503-360dc4c0417c",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-26T16:44:00.000Z",
+    "fechafinalint": "2025-08-26T16:49:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f8fbb9d0-f675-49d7-aaed-8d2d992bd70d",
+    "lastsessionid": "9c4c6196-bb98-45b8-9424-31b1037b766f",
+    "email": "a.bohorquezg@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-08-25T09:55:00.000Z",
+    "fechafinalint": "2025-08-25T10:00:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "160a32ab-b3ae-4106-aa36-b3d0d94926e4",
+    "lastsessionid": "a03bfce3-4f00-432a-a59b-935e339498cf",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-26T16:17:00.000Z",
+    "fechafinalint": "2025-08-26T16:22:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "242d1900-0c9e-49ce-be73-939fbab92583",
+    "lastsessionid": "b1bc28f4-9350-4696-ad52-acb7bbc631aa",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-26T16:51:00.000Z",
+    "fechafinalint": "2025-08-26T16:56:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "aef414f7-da36-4bf8-88e9-f0a18016ea91",
+    "lastsessionid": "8b5c20dd-dd87-4b6b-9beb-987d6c9d7b7a",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-26T16:45:00.000Z",
+    "fechafinalint": "2025-08-26T16:50:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9b2682a3-94fc-4e7b-b4e2-f32a3ba7586b",
+    "lastsessionid": "48e2caba-4372-4e6a-9224-a955957934c7",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-26T16:54:00.000Z",
+    "fechafinalint": "2025-08-26T16:59:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "96d4e0ce-ec4f-430b-929a-73bb81442abb",
+    "lastsessionid": "2f5342a6-8d2b-436c-ba5e-b7243d7cb30f",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-26T17:05:00.000Z",
+    "fechafinalint": "2025-08-26T17:10:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "428b92c8-d265-4c2c-9335-5a2eecc2181b",
+    "lastsessionid": "ee9fc322-f549-4663-8bb2-714b4386244a",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-26T17:18:00.000Z",
+    "fechafinalint": "2025-08-26T17:23:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "d3ad5b3e-c151-4e64-99d5-83e8e44ac6db",
+    "lastsessionid": "e052e7cf-e619-44ed-86de-7bb24ed77eea",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-29T09:25:00.000Z",
+    "fechafinalint": "2025-08-29T09:30:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "def57c61-72ce-431d-a22c-25476a4dff19",
+    "lastsessionid": "49d0cabc-2290-414b-baa3-88f15a958e9a",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-26T17:18:00.000Z",
+    "fechafinalint": "2025-08-26T17:23:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "619066cb-210c-4d86-baa2-0117a5ce8478",
+    "lastsessionid": "241870e4-2277-4d19-a1f0-31a180ef6054",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-08-27T14:15:00.000Z",
+    "fechafinalint": "2025-08-27T14:20:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b985334b-dbda-4bdf-b702-356a25561128",
+    "lastsessionid": "9031142f-2657-4246-b38c-71b3b788a364",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-26T17:24:00.000Z",
+    "fechafinalint": "2025-08-26T17:29:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "913178a8-9b70-452d-b425-ce6c453c947a",
+    "lastsessionid": "4191bfcb-9e61-4391-84fa-61d3c772e6f5",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-26T17:30:00.000Z",
+    "fechafinalint": "2025-08-26T17:35:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "bedff85d-fbda-4d5a-b1f6-36524449348a",
+    "lastsessionid": "ad321b8b-a091-4c11-ac19-cedac48d6169",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-27T14:59:00.000Z",
+    "fechafinalint": "2025-08-27T15:04:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "59c15757-7ba4-40c0-8c2c-bfda3966ae71",
+    "lastsessionid": "9f9c4999-9b23-47b3-b3ac-126031d95aa4",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-26T17:37:00.000Z",
+    "fechafinalint": "2025-08-26T17:42:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "fabac905-5df0-44cb-b90f-cdee9f9c4541",
+    "lastsessionid": "98b838f2-6b5f-42c6-a8ac-e49b1a1d8a1a",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-26T07:06:00.000Z",
+    "fechafinalint": "2025-08-26T07:11:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "3a47442a-b00e-420d-94b8-6560e3469c42",
+    "lastsessionid": "59151ed0-3a9f-4f8e-ad53-0da8b4d79f75",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-26T07:30:00.000Z",
+    "fechafinalint": "2025-08-26T07:35:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "4217bebb-1ea3-49fb-b07e-ab1d3045abb4",
+    "lastsessionid": "59151ed0-3a9f-4f8e-ad53-0da8b4d79f75",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-26T07:43:00.000Z",
+    "fechafinalint": "2025-08-26T07:48:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "a1882490-64c7-4baf-97c8-a2d9eba5aecd",
+    "lastsessionid": "98b838f2-6b5f-42c6-a8ac-e49b1a1d8a1a",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-26T08:39:00.000Z",
+    "fechafinalint": "2025-08-26T08:44:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d2dcf462-81a1-47df-8003-52a1956c4495",
+    "lastsessionid": "1105184d-a367-4d58-b81b-6db20859a650",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-26T08:49:00.000Z",
+    "fechafinalint": "2025-08-26T08:54:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c4d95f4c-01b4-4fa6-948e-edd66c784be5",
+    "lastsessionid": "81cc3db2-4402-45b2-b36c-84b502e1a42b",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-29T09:51:00.000Z",
+    "fechafinalint": "2025-08-29T09:56:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "a137ee40-caf6-4551-bc8e-6aa2f7e640b0",
+    "lastsessionid": "cf4ff94b-5e5e-4fed-a60b-08b4ead99583",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-26T10:12:00.000Z",
+    "fechafinalint": "2025-08-26T10:17:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "171174ee-6d18-4021-8a50-68a327f9b59a",
+    "lastsessionid": "fc45ee36-7868-4e33-820e-1dfe2ea34cf6",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-27T12:44:00.000Z",
+    "fechafinalint": "2025-08-27T12:49:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "64b77065-26a1-4f3a-a53e-962cc09fcdaf",
+    "lastsessionid": "7def9d30-de8f-4c76-9b0b-332f40d6b726",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-08-27T12:52:00.000Z",
+    "fechafinalint": "2025-08-27T12:57:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "62259b38-490c-49c7-bc81-22d19b87acfc",
+    "lastsessionid": "85e14e4c-4188-423b-97d2-722aba0d47b3",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-27T15:03:00.000Z",
+    "fechafinalint": "2025-08-27T15:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "68936212-f72c-4ac6-9e18-f6ef8aaa3ca5",
+    "lastsessionid": "c8c0fde7-a55d-419f-bb62-4ff6b2b530d0",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-08-27T13:54:00.000Z",
+    "fechafinalint": "2025-08-27T13:59:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4d5ec17b-a854-48a5-a274-f3962decfe98",
+    "lastsessionid": "8a027a04-d054-4a53-b6fe-f1d25fc8fcfb",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-08-31T15:39:00.000Z",
+    "fechafinalint": "2025-08-31T15:44:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "6e57d819-a571-4d1d-89a8-11f101d4ef9d",
+    "lastsessionid": "e2b4b5db-ef9a-4fd5-951d-607fa86b9172",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-27T14:01:00.000Z",
+    "fechafinalint": "2025-08-27T14:06:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e9e9b84f-3b37-4203-aeca-0ce1daf0eee0",
+    "lastsessionid": "c25febbd-817d-4da8-9baf-73060f96e643",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T15:48:00.000Z",
+    "fechafinalint": "2025-08-31T15:53:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "ec416e0d-9fea-4e85-bed4-9e7f86d479a2",
+    "lastsessionid": "333af25c-5193-454c-94bf-e093dc0dde69",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-27T15:10:00.000Z",
+    "fechafinalint": "2025-08-27T15:15:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c638ba6f-5d69-497f-8183-a1c6a567c905",
+    "lastsessionid": null,
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T08:32:00.000Z",
+    "fechafinalint": "2025-08-31T08:37:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "ba884886-56b9-4085-89ff-48fdb4dcbfce",
+    "lastsessionid": null,
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T08:33:00.000Z",
+    "fechafinalint": "2025-08-31T08:38:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "45bc8627-289d-4f94-8348-5d00e6d489a9",
+    "lastsessionid": null,
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T08:33:00.000Z",
+    "fechafinalint": "2025-08-31T08:38:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "5ad265ed-5166-4aba-836e-add8c2325f45",
+    "lastsessionid": "85e14e4c-4188-423b-97d2-722aba0d47b3",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-27T15:14:00.000Z",
+    "fechafinalint": "2025-08-27T15:19:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4e291269-f852-4b49-a474-21104593079d",
+    "lastsessionid": "9fc49e8c-df51-4031-b251-64da31a9327d",
+    "email": "m.urango@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-27T15:43:00.000Z",
+    "fechafinalint": "2025-08-27T15:48:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c4f87677-b4de-467a-9c46-8ccff91d60b9",
+    "lastsessionid": "b219be64-699e-4fe7-b7f1-8bb2c2497567",
+    "email": "m.urango@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-27T15:51:00.000Z",
+    "fechafinalint": "2025-08-27T15:56:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7a0765cf-4c00-4c2a-a620-2fb232cab8cc",
+    "lastsessionid": null,
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T08:33:00.000Z",
+    "fechafinalint": "2025-08-31T08:38:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "ad71e4da-3d87-4655-9694-d543217dcfbd",
+    "lastsessionid": null,
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T08:36:00.000Z",
+    "fechafinalint": "2025-08-31T08:41:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "da7aa3b5-0917-4268-ae62-e2c6848e75ab",
+    "lastsessionid": "b219be64-699e-4fe7-b7f1-8bb2c2497567",
+    "email": "m.urango@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-08-27T15:59:00.000Z",
+    "fechafinalint": "2025-08-27T16:04:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b3d959ca-2ac4-49cd-92eb-f7ffdca2bedd",
+    "lastsessionid": "162a7237-6324-4773-96f2-5f0dd50cef0b",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-27T17:33:00.000Z",
+    "fechafinalint": "2025-08-27T17:38:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c77a0549-8c12-486d-852d-13d9ecddd86c",
+    "lastsessionid": "890745eb-29c7-4a24-a024-0002a934ab73",
+    "email": "pa.jesse10@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-28T07:07:00.000Z",
+    "fechafinalint": "2025-08-28T07:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "fc280cd4-4cc5-4488-80c4-4883555e0bcf",
+    "lastsessionid": null,
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-08-31T08:40:00.000Z",
+    "fechafinalint": "2025-08-31T08:45:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "2016fb34-204e-442e-87f4-4643a1acc665",
+    "lastsessionid": "30a3c7af-ee05-45b6-8777-74df4e23d766",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-01T15:04:00.000Z",
+    "fechafinalint": "2025-09-01T15:09:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "46044d77-021e-47eb-8641-44faa268e10f",
+    "lastsessionid": "eb2e872c-6e42-4e6d-9089-0ece556a78fe",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-01T15:11:00.000Z",
+    "fechafinalint": "2025-09-01T15:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a98dac8f-bf62-42cc-974c-3c8c0fd315a1",
+    "lastsessionid": "30a3c7af-ee05-45b6-8777-74df4e23d766",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-01T15:10:00.000Z",
+    "fechafinalint": "2025-09-01T15:15:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c1ba6d01-69ae-4631-8c01-1863d49c8eb8",
+    "lastsessionid": "367c687c-2076-437c-971a-cf678870c9cf",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-01T15:19:00.000Z",
+    "fechafinalint": "2025-09-01T15:24:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ce486191-355f-42e1-b4d0-0aeba8f88e1f",
+    "lastsessionid": "30a3c7af-ee05-45b6-8777-74df4e23d766",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-01T15:21:00.000Z",
+    "fechafinalint": "2025-09-01T15:26:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f3d61f88-95f5-4874-a874-8aa34d858d5c",
+    "lastsessionid": "30a3c7af-ee05-45b6-8777-74df4e23d766",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 9,
+    "fechainicialint": "2025-09-01T15:35:00.000Z",
+    "fechafinalint": "2025-09-01T15:40:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "dc9de261-fa9a-4e4d-840d-1e27f992fb73",
+    "lastsessionid": "9c18736a-3968-4435-90c3-475da04e9608",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-01T15:41:00.000Z",
+    "fechafinalint": "2025-09-01T15:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "65137a0a-1344-46c3-a4e8-c23eb4eed56a",
+    "lastsessionid": "30a3c7af-ee05-45b6-8777-74df4e23d766",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-01T15:41:00.000Z",
+    "fechafinalint": "2025-09-01T15:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a4a1028b-0d15-4d58-bab6-2f1234197359",
+    "lastsessionid": "30a3c7af-ee05-45b6-8777-74df4e23d766",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-01T15:52:00.000Z",
+    "fechafinalint": "2025-09-01T15:57:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7e0e99aa-1a0b-4f35-9d60-870f327ceb01",
+    "lastsessionid": "efbc18d4-a2bc-4a4e-a89b-78eef4945482",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-01T16:07:00.000Z",
+    "fechafinalint": "2025-09-01T16:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a2b1c408-866e-47d4-8934-682dd8fb8c32",
+    "lastsessionid": "efbc18d4-a2bc-4a4e-a89b-78eef4945482",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-01T16:13:00.000Z",
+    "fechafinalint": "2025-09-01T16:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b8b89915-9c81-4849-a2e5-1494ca495d8c",
+    "lastsessionid": "efbc18d4-a2bc-4a4e-a89b-78eef4945482",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-01T16:31:00.000Z",
+    "fechafinalint": "2025-09-01T16:36:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "edc8381e-f2d7-4b31-b4b4-32f87a583025",
+    "lastsessionid": "5d9056a6-ae12-4c68-be88-a2e421c939b8",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-01T16:47:00.000Z",
+    "fechafinalint": "2025-09-01T16:52:00.000Z",
+    "modelo": "IMEC1410TutorEsfuerzoDeformacion"
+  },
+  {
+    "uuid": "dab55263-0371-40f4-9b80-f4f27966f309",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T07:38:00.000Z",
+    "fechafinalint": "2025-09-02T07:43:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "fb528f6c-9936-410d-aaa2-dde33eee668c",
+    "lastsessionid": "17bf885a-2cf6-4665-901a-ecc6fb46c573",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-01T16:56:00.000Z",
+    "fechafinalint": "2025-09-01T17:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "5c5ea9d8-40cb-4c65-88ed-f6bd5261036d",
+    "lastsessionid": "22b1362e-456e-4d5c-9aa0-c74ba24f1833",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-01T06:43:00.000Z",
+    "fechafinalint": "2025-09-01T06:48:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7fe0ca8b-d824-4c17-97f6-84eb89200a92",
+    "lastsessionid": "b2347aa7-5f64-474e-aa9d-8acdab91adc0",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-01T06:46:00.000Z",
+    "fechafinalint": "2025-09-01T06:51:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "d7d75d8a-f341-46cd-9091-a09eb5f600c1",
+    "lastsessionid": "cf432220-0f9b-450c-9d8c-4cc85257fd8e",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-01T06:58:00.000Z",
+    "fechafinalint": "2025-09-01T07:03:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8c046065-7787-47d0-a2cd-ae5078fa619b",
+    "lastsessionid": "1e5f4c70-52cc-4c33-8c7c-1c8f8b679b93",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-01T07:13:00.000Z",
+    "fechafinalint": "2025-09-01T07:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6381f43c-8e8c-4e8f-b7ea-e57fc4e60d63",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-02T17:26:00.000Z",
+    "fechafinalint": "2025-09-02T17:31:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "3158782e-0c6f-4b8e-a049-d5088226f294",
+    "lastsessionid": "b4cad550-2617-48ed-8890-5e9db43cd1c5",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-02T15:21:00.000Z",
+    "fechafinalint": "2025-09-02T15:26:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "f6913af8-c530-40f8-aeef-d3f1abbd149e",
+    "lastsessionid": "dd33c06e-d47c-4479-9a8a-7989d734b75e",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-01T08:11:00.000Z",
+    "fechafinalint": "2025-09-01T08:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "dff8cad1-a73c-430f-8f9f-7577c76d60d9",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T17:06:00.000Z",
+    "fechafinalint": "2025-09-02T17:11:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "fa056063-29c3-4670-bf54-b0aeb35deb4a",
+    "lastsessionid": "dac6a2cb-23e2-41b9-87fe-f56aa6389a5d",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T17:31:00.000Z",
+    "fechafinalint": "2025-09-02T17:36:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "3efadb64-495c-433d-bf4e-58e16bb03d64",
+    "lastsessionid": "dac6a2cb-23e2-41b9-87fe-f56aa6389a5d",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T17:38:00.000Z",
+    "fechafinalint": "2025-09-02T17:43:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "72e88d86-065d-47c0-90b5-a411e678daa1",
+    "lastsessionid": "d6222ebf-04c0-4882-9b56-53134eaf47f1",
+    "email": "jv.cortesv1@uniandes.edu.co",
+    "numerointeracciones": 8,
+    "fechainicialint": "2025-09-01T14:23:00.000Z",
+    "fechafinalint": "2025-09-01T14:28:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2e879948-764e-4629-b0a5-d11bd3073d35",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T17:57:00.000Z",
+    "fechafinalint": "2025-09-02T06:02:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "01bbd1b0-d0fd-41a7-b3b0-a61bdf82a5f6",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-02T17:12:00.000Z",
+    "fechafinalint": "2025-09-02T17:17:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "23a2168a-66c6-40f7-84df-2e67091583a9",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T06:00:00.000Z",
+    "fechafinalint": "2025-09-02T06:05:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9c17d96c-f0c2-4de0-a90f-fae3f33a582d",
+    "lastsessionid": "d6222ebf-04c0-4882-9b56-53134eaf47f1",
+    "email": "jv.cortesv1@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-01T14:29:00.000Z",
+    "fechafinalint": "2025-09-01T14:34:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "847f2c20-d27f-40b8-8d9b-816d87a3a5f9",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T17:18:00.000Z",
+    "fechafinalint": "2025-09-02T17:23:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1f86b80a-507e-4ada-a360-695077e8d8cb",
+    "lastsessionid": "d6222ebf-04c0-4882-9b56-53134eaf47f1",
+    "email": "jv.cortesv1@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-01T14:39:00.000Z",
+    "fechafinalint": "2025-09-01T14:44:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "eb8725fc-05c2-4630-ba34-9bf2a45fe51b",
+    "lastsessionid": "48970074-2805-465c-a2d6-81e86c894dad",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T15:17:00.000Z",
+    "fechafinalint": "2025-09-02T15:22:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "771ab7c4-e497-4b79-b063-b6096adb0a37",
+    "lastsessionid": "ffeeb858-1318-4248-be9a-397549f493e9",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-02T07:43:00.000Z",
+    "fechafinalint": "2025-09-02T07:48:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "95126d7f-6c83-4c7d-a75b-69225534287d",
+    "lastsessionid": "dac6a2cb-23e2-41b9-87fe-f56aa6389a5d",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 8,
+    "fechainicialint": "2025-09-02T17:17:00.000Z",
+    "fechafinalint": "2025-09-02T17:22:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0f0be44d-c749-4706-a1c8-d3951ed9d4b5",
+    "lastsessionid": "dac6a2cb-23e2-41b9-87fe-f56aa6389a5d",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T17:23:00.000Z",
+    "fechafinalint": "2025-09-02T17:28:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9e8d3833-f183-4fef-8948-1ebe973f6a7e",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T07:45:00.000Z",
+    "fechafinalint": "2025-09-02T07:50:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8336169a-944a-4390-8c74-fedf13606eab",
+    "lastsessionid": "dac6a2cb-23e2-41b9-87fe-f56aa6389a5d",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-02T07:26:00.000Z",
+    "fechafinalint": "2025-09-02T07:31:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9d7e0d84-7685-4ba3-a8dd-d5e5dc0ce372",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-02T07:24:00.000Z",
+    "fechafinalint": "2025-09-02T07:29:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c1a615a2-96cd-417e-b249-adce760ed45f",
+    "lastsessionid": "dac6a2cb-23e2-41b9-87fe-f56aa6389a5d",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T07:33:00.000Z",
+    "fechafinalint": "2025-09-02T07:38:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0efbd48c-9911-41e9-bb5a-975a49bb3d1b",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T07:32:00.000Z",
+    "fechafinalint": "2025-09-02T07:37:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "94f807df-e55f-42c2-b4a6-34f9d0d6ae58",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T10:15:00.000Z",
+    "fechafinalint": "2025-09-02T10:20:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6cc7670f-1567-49ad-971b-00b567e83198",
+    "lastsessionid": "918ff432-ce86-4085-ac80-8180b1490be7",
+    "email": null,
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T12:32:00.000Z",
+    "fechafinalint": "2025-09-02T12:37:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "8c34cf93-b3bc-4a97-8181-19fb85b0abb4",
+    "lastsessionid": "02d6aec7-be49-47e0-9cdb-0eec67461beb",
+    "email": "ds.ramosm1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T12:37:00.000Z",
+    "fechafinalint": "2025-09-02T12:42:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9511ff4c-8f67-4175-898d-84110ae212ab",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-02T14:23:00.000Z",
+    "fechafinalint": "2025-09-02T14:28:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "49620feb-51e7-4106-bb62-370778eaba5d",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-02T14:17:00.000Z",
+    "fechafinalint": "2025-09-02T14:22:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "645305bd-96ed-4676-9910-a57dc4c3f3f8",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-02T14:11:00.000Z",
+    "fechafinalint": "2025-09-02T14:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "72d76e7d-8240-4c33-97d2-44c664658ba2",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-02T14:05:00.000Z",
+    "fechafinalint": "2025-09-02T14:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0647ed43-d952-428e-a572-2da00c485a03",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-02T14:30:00.000Z",
+    "fechafinalint": "2025-09-02T14:35:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f5e5f0b2-0dd9-48b3-8060-bcf7cd4b9907",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-02T14:41:00.000Z",
+    "fechafinalint": "2025-09-02T14:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9bd369bf-22f1-4490-973f-39d412c3b151",
+    "lastsessionid": "7cf25b6c-fc0f-4295-acee-7963626abb92",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-02T15:11:00.000Z",
+    "fechafinalint": "2025-09-02T15:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9d08eca3-8425-4784-a918-3a93021ae6c4",
+    "lastsessionid": "5558ef58-01e0-40f4-be8b-240215466b6a",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-03T11:51:00.000Z",
+    "fechafinalint": "2025-09-03T11:56:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "edaad494-4a65-4e0b-a6af-3821b419492a",
+    "lastsessionid": "1232c24b-70bc-4712-ba08-7563f5fd3c12",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-03T11:57:00.000Z",
+    "fechafinalint": "2025-09-03T12:02:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a7fd62b1-bba4-4e4a-a053-95ea0067acc5",
+    "lastsessionid": "9af5e7b8-6a22-42e4-be34-27295edccbd1",
+    "email": "fesalced@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-03T12:59:00.000Z",
+    "fechafinalint": "2025-09-03T13:04:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c78e614b-41bf-4599-820f-70846ce43d60",
+    "lastsessionid": "12649e58-51b2-498c-b863-655b51262bb8",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-03T14:48:00.000Z",
+    "fechafinalint": "2025-09-03T14:53:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4dfb8488-4882-48bd-81f2-6914a5f1c458",
+    "lastsessionid": "cd17cc19-bc50-475d-8726-7e8cf3005677",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T14:54:00.000Z",
+    "fechafinalint": "2025-09-03T14:59:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8f4f18f7-05dc-4bce-87f1-4495a7e562e7",
+    "lastsessionid": "5b2fc26b-d35f-438e-ad38-bad780920075",
+    "email": "b.abello@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-03T08:03:00.000Z",
+    "fechafinalint": "2025-09-03T08:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6699650a-fdda-45b4-bd6f-02e7d3e34485",
+    "lastsessionid": "75b606bf-d96d-4092-b603-6db049a4bf8c",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-03T15:07:00.000Z",
+    "fechafinalint": "2025-09-03T15:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "77f3e9b4-0d70-4286-95a4-404f6bbde87d",
+    "lastsessionid": "dde361ff-c663-4953-bfe4-709730cb73f5",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T15:16:00.000Z",
+    "fechafinalint": "2025-09-03T15:21:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a5fe5ba6-1bf2-494b-81ae-43f607bec16e",
+    "lastsessionid": "15a0605c-c560-4ab2-85f1-fd7cbec0ddc9",
+    "email": "n.sanchezd2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T15:25:00.000Z",
+    "fechafinalint": "2025-09-03T15:30:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7c778c7b-7ff5-42f1-8948-4fc11025cf0f",
+    "lastsessionid": "f7fab064-cb54-4bfa-b4cc-20edd16262cb",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T16:07:00.000Z",
+    "fechafinalint": "2025-09-03T16:12:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "f57a908e-e476-42b3-9088-2167543e1de0",
+    "lastsessionid": "6d0e2524-c99b-4128-a8f5-68a0844c6844",
+    "email": "lm.melo11@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-03T08:11:00.000Z",
+    "fechafinalint": "2025-09-03T08:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "23ba5f2c-16f3-4926-8b53-80ccb08a5c94",
+    "lastsessionid": "d2d981c4-a4b6-4a86-aeb5-5970c4c38d60",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T10:50:00.000Z",
+    "fechafinalint": "2025-09-03T10:55:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "3927273c-eeb9-4a1e-9a4d-5860b7df92ba",
+    "lastsessionid": "83da9bbc-5ba1-4409-b951-771dcb7a317e",
+    "email": "n.sanchezd2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-03T07:40:00.000Z",
+    "fechafinalint": "2025-09-03T07:45:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f8d0939b-c1d9-4c8a-99ce-18a707df56d0",
+    "lastsessionid": "4c271827-2cc6-4230-a86a-4c8d7e23ff96",
+    "email": "ja.pinedac1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-03T11:08:00.000Z",
+    "fechafinalint": "2025-09-03T11:13:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "e858aedf-ef53-4589-aa1c-3c7d04fbcfb9",
+    "lastsessionid": "6d0e2524-c99b-4128-a8f5-68a0844c6844",
+    "email": "lm.melo11@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-03T07:41:00.000Z",
+    "fechafinalint": "2025-09-03T07:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "30777371-f83c-456c-876f-2430de22f64d",
+    "lastsessionid": "5b2fc26b-d35f-438e-ad38-bad780920075",
+    "email": "b.abello@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T07:47:00.000Z",
+    "fechafinalint": "2025-09-03T07:52:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "80ad5727-2bff-45ce-9d06-afc69b5b7a3a",
+    "lastsessionid": "74f77d9b-a4dd-49da-8acf-0852ef6debc2",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T14:42:00.000Z",
+    "fechafinalint": "2025-09-04T14:47:00.000Z",
+    "modelo": "ICYA2401_Tutor_Mecanica_Fluidos"
+  },
+  {
+    "uuid": "a40f928c-d2f8-4482-8d86-3d060da681d9",
+    "lastsessionid": "ffcb7be3-866d-402f-b929-753470353424",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T15:56:00.000Z",
+    "fechafinalint": "2025-09-04T16:01:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Inverso"
+  },
+  {
+    "uuid": "d9122047-57f0-47f1-9f58-2a56c0ec6cfc",
+    "lastsessionid": "e8332287-ba47-4dfb-a7bc-d0d4bd627022",
+    "email": "i.chaparro@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T15:56:00.000Z",
+    "fechafinalint": "2025-09-04T16:01:00.000Z",
+    "modelo": "IMEC1000_Tutor_Intro_Mecanica_Clasico"
+  },
+  {
+    "uuid": "0a06dcdf-6be5-4143-8c08-aa943922e68d",
+    "lastsessionid": "f77fbea8-b8c9-42c2-a2bc-f8b4a41e0ba0",
+    "email": "pa.jesse10@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T08:26:00.000Z",
+    "fechafinalint": "2025-09-04T08:31:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "84082d75-60ad-4141-88c3-732f60f52dce",
+    "lastsessionid": "83da9bbc-5ba1-4409-b951-771dcb7a317e",
+    "email": "n.sanchezd2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-03T07:46:00.000Z",
+    "fechafinalint": "2025-09-03T07:51:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "09a04e38-38e2-47a8-b977-9efcfd059e19",
+    "lastsessionid": "f64c9627-d78d-465e-aaa1-e504b4b89321",
+    "email": null,
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T09:59:00.000Z",
+    "fechafinalint": "2025-09-04T10:04:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "9ac2f780-4601-4566-b9ff-153ebee51fe4",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": null,
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T09:59:00.000Z",
+    "fechafinalint": "2025-09-04T10:04:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "cf077916-06bd-4f04-8fe2-e52f4469f163",
+    "lastsessionid": "6d0e2524-c99b-4128-a8f5-68a0844c6844",
+    "email": "lm.melo11@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-03T07:48:00.000Z",
+    "fechafinalint": "2025-09-03T07:53:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "5900a7fe-875c-4fa8-ada9-8a3c5db1e3b3",
+    "lastsessionid": "5b2fc26b-d35f-438e-ad38-bad780920075",
+    "email": "b.abello@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T07:54:00.000Z",
+    "fechafinalint": "2025-09-03T07:59:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0f262917-f5a8-4792-9652-ddf9f0bcdc0c",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": null,
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T10:02:00.000Z",
+    "fechafinalint": "2025-09-04T10:07:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "e89dc181-e494-43b3-af0c-409db8ff5c57",
+    "lastsessionid": "578f308c-6fe6-4e32-88f6-734cbba9a673",
+    "email": "n.sanchezd2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-03T07:55:00.000Z",
+    "fechafinalint": "2025-09-03T08:00:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4fbad3fd-33cd-407a-8bba-a5b4a863df11",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": null,
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T10:02:00.000Z",
+    "fechafinalint": "2025-09-04T10:07:00.000Z",
+    "modelo": null
+  },
+  {
+    "uuid": "60995d3a-3645-4e1e-b188-3da27358ebb4",
+    "lastsessionid": "126dfe58-0b1f-476c-b6d5-e5763f11fbb3",
+    "email": "ds.ramosm1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T10:09:00.000Z",
+    "fechafinalint": "2025-09-04T10:14:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d45ceef2-32df-4f46-95fd-022c5d79824d",
+    "lastsessionid": "ad1e3b89-2a45-4ca8-a181-5c86b022c9f1",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-03T07:59:00.000Z",
+    "fechafinalint": "2025-09-03T08:04:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "27c1d643-f305-4b27-bf73-b34a33a62250",
+    "lastsessionid": "6d0e2524-c99b-4128-a8f5-68a0844c6844",
+    "email": "lm.melo11@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-03T07:55:00.000Z",
+    "fechafinalint": "2025-09-03T08:00:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9a852b36-af87-4833-ba76-40dd71142a4f",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": "js.jaramilloc1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-04T10:12:00.000Z",
+    "fechafinalint": "2025-09-04T10:17:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6b3b64bd-a74f-4d1a-8322-14f87372f9a7",
+    "lastsessionid": "eb339e20-0e23-4394-bc11-c4ea654d9a82",
+    "email": "p.torresp@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T14:12:00.000Z",
+    "fechafinalint": "2025-09-05T14:17:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "055ad055-11ff-40a8-a8c9-a79318c91c81",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": "js.jaramilloc1@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-04T12:23:00.000Z",
+    "fechafinalint": "2025-09-04T12:28:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "87ae24c3-5f6c-454e-a955-9584a5c09970",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": "js.jaramilloc1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T12:30:00.000Z",
+    "fechafinalint": "2025-09-04T12:35:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a61b8009-6d6c-4506-b316-184d1097cc2c",
+    "lastsessionid": "789c79bf-75b2-475f-907e-87d1b1fda3f6",
+    "email": "af.infante@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-04T10:29:00.000Z",
+    "fechafinalint": "2025-09-04T10:34:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0f6e9e8c-f371-444d-9218-5fe6172f0aab",
+    "lastsessionid": "789c79bf-75b2-475f-907e-87d1b1fda3f6",
+    "email": "af.infante@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-04T10:39:00.000Z",
+    "fechafinalint": "2025-09-04T10:44:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "211e6ac2-533c-4612-8db2-9e8758b5389e",
+    "lastsessionid": "c8e49c7e-fa56-43e4-b39f-03486bb9fbd2",
+    "email": "js.jaramilloc1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-04T10:52:00.000Z",
+    "fechafinalint": "2025-09-04T10:57:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4e186024-8b55-4060-9cd5-59009d1333d7",
+    "lastsessionid": "eb339e20-0e23-4394-bc11-c4ea654d9a82",
+    "email": "p.torresp@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T14:25:00.000Z",
+    "fechafinalint": "2025-09-05T14:30:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ee076749-7965-46b0-85f4-1b225e2379b1",
+    "lastsessionid": "eb339e20-0e23-4394-bc11-c4ea654d9a82",
+    "email": "p.torresp@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T14:00:00.000Z",
+    "fechafinalint": "2025-09-05T14:05:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ba55fe90-f372-475c-ae53-749c601f34fd",
+    "lastsessionid": "eb339e20-0e23-4394-bc11-c4ea654d9a82",
+    "email": "p.torresp@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-05T14:06:00.000Z",
+    "fechafinalint": "2025-09-05T14:11:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2a6bed95-9351-4cd8-bd07-717cc4f15c01",
+    "lastsessionid": "1afaee22-bab2-4f8f-aeb2-ddbe4000d4b5",
+    "email": "pa.jesse10@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T14:37:00.000Z",
+    "fechafinalint": "2025-09-05T14:42:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d5b82134-c90b-4a3c-9032-1333c2a06e42",
+    "lastsessionid": "7a48799f-88e2-4b9c-a4e0-e1a20cdc5e82",
+    "email": "na.mendoza@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:00:00.000Z",
+    "fechafinalint": "2025-09-05T15:05:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c1e2e7e1-7c73-42c8-93aa-23b8e6e61800",
+    "lastsessionid": "0cffae84-bb4a-4e3b-abbc-dc68fec91ffa",
+    "email": "p.torresp@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-05T14:41:00.000Z",
+    "fechafinalint": "2025-09-05T14:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4e4d58e8-1a7c-45bd-8583-0e193241b674",
+    "lastsessionid": "ad81b9ee-781b-4862-8c10-db559b11db7f",
+    "email": "g.izquierdom@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:01:00.000Z",
+    "fechafinalint": "2025-09-05T15:06:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4bbcc0b7-f63d-40af-976a-0ee7965e2fe1",
+    "lastsessionid": "6b536ea1-a608-4ae5-81a8-e581f90daa2a",
+    "email": "d.tobonm2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:01:00.000Z",
+    "fechafinalint": "2025-09-05T15:06:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "ed73c516-2143-4220-a1ab-774f4978bea9",
+    "lastsessionid": "15ba874f-c418-40f5-ab05-ae3bb3c503f9",
+    "email": "st.morenoa1@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "fd70a2bb-9e4e-449e-88d2-87f0f66ad593",
+    "lastsessionid": "0feb5435-e8ff-4d56-9520-3c753d2af00f",
+    "email": "d.espinosaa@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-05T09:35:00.000Z",
+    "fechafinalint": "2025-09-05T09:40:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7cf9918d-3a1f-464c-9a7c-1271b349f300",
+    "lastsessionid": "0feb5435-e8ff-4d56-9520-3c753d2af00f",
+    "email": "d.espinosaa@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-05T08:43:00.000Z",
+    "fechafinalint": "2025-09-05T08:48:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7f7c4aea-1ce4-4735-b916-fc9a708f4d60",
+    "lastsessionid": "31c6e19d-ea11-4cf8-bf8f-152dd36ae938",
+    "email": "mp.lopez2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:08:00.000Z",
+    "fechafinalint": "2025-09-05T15:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "040d56a6-1e8d-45c2-8098-3a726a3e765a",
+    "lastsessionid": "2f0f7fbc-044a-4166-8a45-2293d60bf7d5",
+    "email": "a.gutierrezg2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:02:00.000Z",
+    "fechafinalint": "2025-09-05T15:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "875a9f9a-2b03-4f7b-90dd-e44f853e1d0e",
+    "lastsessionid": "00064887-3e3c-4bc4-8636-18008e5c42c1",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:04:00.000Z",
+    "fechafinalint": "2025-09-05T15:09:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ecfd1bdb-eee6-46b7-a290-2f1eb4cf0470",
+    "lastsessionid": "f37f7bf7-f728-4890-914c-68ae7febb947",
+    "email": "s.buhll@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c936c026-0152-4651-8b23-8daae058508e",
+    "lastsessionid": "ca9a632e-3e8d-400f-8a26-489c5d66914a",
+    "email": "n.guzmans@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "53a92ad6-0229-48fb-bbeb-29fb5125fb8a",
+    "lastsessionid": "8d9f122d-5e2d-4d45-855a-abdd01e4e23f",
+    "email": "l.perdomom2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "abe707d1-3e22-4c4c-bda4-bd9cf41bf9f3",
+    "lastsessionid": "7a48799f-88e2-4b9c-a4e0-e1a20cdc5e82",
+    "email": "na.mendoza@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:07:00.000Z",
+    "fechafinalint": "2025-09-05T15:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2bc6c969-5d07-4067-97b4-807b9e75b592",
+    "lastsessionid": "f730ef8e-a2df-40ad-9f13-0cfdf65edc7a",
+    "email": "a.rusinquem@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:07:00.000Z",
+    "fechafinalint": "2025-09-05T15:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "fb5e66c0-fa2c-40fe-85ea-49e6070eeaff",
+    "lastsessionid": "363d300b-f82a-4642-bbdc-e84ac446e341",
+    "email": "m.valdiviesom@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "71b1c967-43f3-4e8b-8855-30fd196e0ec1",
+    "lastsessionid": "502a5ee9-30cb-4bf2-81ad-b1d1fffbe62f",
+    "email": "n.vargast2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:07:00.000Z",
+    "fechafinalint": "2025-09-05T15:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "3c4cbe50-72b1-4f6e-8551-4279bdb6ba52",
+    "lastsessionid": "de99a863-8a0c-4253-afc5-7d0024de6ecb",
+    "email": "c.baezg2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "19dc0fd1-06a9-4635-8f41-3d2008f10ddf",
+    "lastsessionid": "6c9cf274-3994-4716-a8bb-c7375c9f6266",
+    "email": "j.bernalp2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:06:00.000Z",
+    "fechafinalint": "2025-09-05T15:11:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "5de9db56-2159-42b1-baf1-7672021774ef",
+    "lastsessionid": "79f66f7f-4848-4c4a-9175-6e1f4d1ab019",
+    "email": "s.gomeze23@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:06:00.000Z",
+    "fechafinalint": "2025-09-05T15:11:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "897e3696-fa10-4891-963b-31c5e0078402",
+    "lastsessionid": "83cda3ca-bc1f-47ac-b7fe-b2af3ca7d3f3",
+    "email": "s.arevaloj@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:05:00.000Z",
+    "fechafinalint": "2025-09-05T15:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f8358606-ed92-4a3f-bc92-f6f1a3c31945",
+    "lastsessionid": "24ccad1c-f295-4f65-983c-4fcf25ead8b9",
+    "email": "i.marinoh@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:08:00.000Z",
+    "fechafinalint": "2025-09-05T15:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "42c456ca-7cf3-47d7-86a5-52f80130928b",
+    "lastsessionid": "d8155a71-f049-471e-b62c-a947de3c9d01",
+    "email": "a.gomezt2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:08:00.000Z",
+    "fechafinalint": "2025-09-05T15:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "10cd094a-de32-45fe-bf73-7260f90648dd",
+    "lastsessionid": "ebd4de13-6916-410b-b5c2-0ff3bc87deae",
+    "email": "jc.beltranl1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:08:00.000Z",
+    "fechafinalint": "2025-09-05T15:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e3bf8607-bc03-4505-9b26-f81984525722",
+    "lastsessionid": "feb6ec26-278a-4a03-b1c8-e3d5d282206f",
+    "email": "d.penar@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:08:00.000Z",
+    "fechafinalint": "2025-09-05T15:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8dd99224-0bd3-4ebe-aab4-56b224835f81",
+    "lastsessionid": "3690f90c-251e-4769-b367-52404840e9a7",
+    "email": "d.santanad2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:08:00.000Z",
+    "fechafinalint": "2025-09-05T15:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d3e3d434-ee27-47dd-a694-4d7505247c8f",
+    "lastsessionid": "0feb5435-e8ff-4d56-9520-3c753d2af00f",
+    "email": "d.espinosaa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T08:49:00.000Z",
+    "fechafinalint": "2025-09-05T08:54:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "c4269f80-2c01-4046-900a-8fd922b97837",
+    "lastsessionid": "746ff42a-ab34-448c-88c7-df5c9af1e341",
+    "email": "m.galindoh@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-05T08:19:00.000Z",
+    "fechafinalint": "2025-09-05T08:24:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "54cd33f1-c3fa-486c-819e-bbd98a6a9d94",
+    "lastsessionid": "83cda3ca-bc1f-47ac-b7fe-b2af3ca7d3f3",
+    "email": "s.arevaloj@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:11:00.000Z",
+    "fechafinalint": "2025-09-05T15:16:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "db73e3cf-6c6f-403b-ad2c-606f14c2596f",
+    "lastsessionid": "fd9110d0-a062-4e49-b4cc-f5441d7e46cc",
+    "email": "c.manjon@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-05T15:09:00.000Z",
+    "fechafinalint": "2025-09-05T15:14:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0bd8f245-348f-4353-a181-e02be6146172",
+    "lastsessionid": "00064887-3e3c-4bc4-8636-18008e5c42c1",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:13:00.000Z",
+    "fechafinalint": "2025-09-05T15:18:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ab6421f2-054d-4f7c-bebd-b6e57ad92db4",
+    "lastsessionid": "d8155a71-f049-471e-b62c-a947de3c9d01",
+    "email": "a.gomezt2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:19:00.000Z",
+    "fechafinalint": "2025-09-05T15:24:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "dea830ec-3d14-4e90-a82e-b3c0a47efb46",
+    "lastsessionid": "31c6e19d-ea11-4cf8-bf8f-152dd36ae938",
+    "email": "mp.lopez2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T15:15:00.000Z",
+    "fechafinalint": "2025-09-05T15:20:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f0158875-7dd2-41d0-aabc-7acefb9cf405",
+    "lastsessionid": "fd9110d0-a062-4e49-b4cc-f5441d7e46cc",
+    "email": "c.manjon@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T15:22:00.000Z",
+    "fechafinalint": "2025-09-05T15:27:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a0ab128c-a139-4977-97c1-1a6a967c2e5a",
+    "lastsessionid": "00064887-3e3c-4bc4-8636-18008e5c42c1",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T15:19:00.000Z",
+    "fechafinalint": "2025-09-05T15:24:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9c70a449-ff9c-4098-b436-e259ab57f474",
+    "lastsessionid": "fac6a4ca-249c-494a-8fa1-277d5a5cd2f8",
+    "email": "v.perezy@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T16:32:00.000Z",
+    "fechafinalint": "2025-09-05T16:37:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "710ad4ba-5e1b-4c84-b137-f2c38cfd686b",
+    "lastsessionid": "0e5cce1b-44f0-4e92-bb46-b5f80e79538a",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T16:49:00.000Z",
+    "fechafinalint": "2025-09-05T16:54:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "14f7d9c9-0893-498a-a37d-65f484bf2cb1",
+    "lastsessionid": "9ce581dd-2dd3-46fe-89df-c52d2ac958b4",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 8,
+    "fechainicialint": "2025-09-05T07:18:00.000Z",
+    "fechafinalint": "2025-09-05T07:23:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "57c32f5b-4b42-4815-8317-a784cadf6a80",
+    "lastsessionid": "9ce581dd-2dd3-46fe-89df-c52d2ac958b4",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 10,
+    "fechainicialint": "2025-09-05T07:12:00.000Z",
+    "fechafinalint": "2025-09-05T07:17:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "83a79fe8-9b88-4211-a311-804f5e1494f3",
+    "lastsessionid": "0feb5435-e8ff-4d56-9520-3c753d2af00f",
+    "email": "d.espinosaa@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-05T09:28:00.000Z",
+    "fechafinalint": "2025-09-05T09:33:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d31ca131-cb9e-433d-88a9-017094bacd2f",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-05T10:55:00.000Z",
+    "fechafinalint": "2025-09-05T11:00:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d7d47aa1-128b-4830-a52a-d4375e40c076",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T11:05:00.000Z",
+    "fechafinalint": "2025-09-05T11:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "28fc5305-7eb6-44fc-a527-179ddee8cc46",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T11:14:00.000Z",
+    "fechafinalint": "2025-09-05T11:19:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0b2dd67a-a872-4e0d-9526-2f3d38560e38",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T11:21:00.000Z",
+    "fechafinalint": "2025-09-05T11:26:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e43c3147-554d-4e28-bc5c-4722e2bd7793",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-05T11:51:00.000Z",
+    "fechafinalint": "2025-09-05T11:56:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f49585e1-293f-4245-94f8-889fe7763aad",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T11:57:00.000Z",
+    "fechafinalint": "2025-09-05T12:02:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ba9e52d7-0f8c-4175-b7f1-23b2bd522fa3",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T12:04:00.000Z",
+    "fechafinalint": "2025-09-05T12:09:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a8646590-2cde-4f36-a79c-566e557242f6",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-05T12:28:00.000Z",
+    "fechafinalint": "2025-09-05T12:33:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "32496049-c36d-4ed2-86b5-7939bc176bd5",
+    "lastsessionid": "ee1e2012-5187-4a18-ac6b-82a6271b6d19",
+    "email": "ja.pinedac1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-06T14:43:00.000Z",
+    "fechafinalint": "2025-09-06T14:48:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "d33e4f0f-7e06-4371-8b74-91c7e7fcc7b8",
+    "lastsessionid": "ee1e2012-5187-4a18-ac6b-82a6271b6d19",
+    "email": "ja.pinedac1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-06T14:52:00.000Z",
+    "fechafinalint": "2025-09-06T14:57:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "08c7c762-b47f-43a3-b86b-33caa7a5cc20",
+    "lastsessionid": "3f1c482f-5d4b-409c-b04c-cbfe22e1d891",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-08T06:52:00.000Z",
+    "fechafinalint": "2025-09-08T06:57:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4a4f611c-71d0-4269-9d4e-e1552abb66a7",
+    "lastsessionid": "f3ce3876-7695-4d61-acae-acc25376f262",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T07:02:00.000Z",
+    "fechafinalint": "2025-09-08T07:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "229a063b-ab6b-4c49-95b4-9e4bb85b3fa9",
+    "lastsessionid": "5b508427-7a4b-435e-a6aa-c9bd2df7cf00",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T07:42:00.000Z",
+    "fechafinalint": "2025-09-08T07:47:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4745ec5a-a086-4b53-b0e3-997f4fb8037a",
+    "lastsessionid": "c5244467-dc4d-49c6-987f-74756fee9991",
+    "email": "t.osuna@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "bd33fd19-6154-4091-824c-c308e05122f1",
+    "lastsessionid": "4f5f1f44-98eb-4117-adb4-2caaa982b3f9",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-08T07:58:00.000Z",
+    "fechafinalint": "2025-09-08T08:03:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "5fc01d44-e183-4b2f-aa1d-e4b8678d42e8",
+    "lastsessionid": "ec3a014e-ec72-4520-8da5-80f89ed1d331",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T08:40:00.000Z",
+    "fechafinalint": "2025-09-08T08:45:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "795412e0-b850-48a8-bac8-49b074a35fab",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 9,
+    "fechainicialint": "2025-09-07T07:49:00.000Z",
+    "fechafinalint": "2025-09-07T07:54:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "eaac84f1-0189-450c-b445-b385e7ccff0f",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-07T07:55:00.000Z",
+    "fechafinalint": "2025-09-07T08:00:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "6c3c3a3e-5ae1-4ab8-8a22-2faa46c60ad9",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-07T08:01:00.000Z",
+    "fechafinalint": "2025-09-07T08:06:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "a26b51d4-8702-40fd-8d74-d74f59060f88",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-07T08:09:00.000Z",
+    "fechafinalint": "2025-09-07T08:14:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "d49a4a9d-55c5-4642-a8e8-f228609a2971",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-07T08:15:00.000Z",
+    "fechafinalint": "2025-09-07T08:20:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "1cc020fa-6802-4f6c-b4c4-87def8a9c2e1",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-07T08:40:00.000Z",
+    "fechafinalint": "2025-09-07T08:45:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "860fcb58-43d8-43a9-984d-50b59f24a775",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-07T08:47:00.000Z",
+    "fechafinalint": "2025-09-07T08:52:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "a8a5d7ae-a0b0-411b-a17b-375dc9fb743b",
+    "lastsessionid": "c7fea5db-d7b4-4e13-aaf0-83c1cf76465c",
+    "email": "jf.sanchezs1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T08:41:00.000Z",
+    "fechafinalint": "2025-09-08T08:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a7f0cb56-d691-4361-b675-0d234ad2bc9a",
+    "lastsessionid": "9bd161d0-086a-4db7-b580-f1d5d728866b",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-07T09:29:00.000Z",
+    "fechafinalint": "2025-09-07T09:34:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "5c9d8efa-9566-44ca-bf4e-cf7562def79b",
+    "lastsessionid": "9e606811-4778-413b-ad4f-84defd9963f1",
+    "email": "m.galang@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-07T14:26:00.000Z",
+    "fechafinalint": "2025-09-07T14:31:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e2f39ece-eff1-4d8f-afb7-7ce069c30396",
+    "lastsessionid": "a361a512-71a2-4de0-a40d-75d52567f3be",
+    "email": "lmateus@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T12:39:00.000Z",
+    "fechafinalint": "2025-09-08T12:44:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "66651077-7493-4dac-a6bf-4e6fe508c0ab",
+    "lastsessionid": "c60e5e22-5c99-449c-a9e1-a2d76b2f1efc",
+    "email": "s.gittins@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T08:48:00.000Z",
+    "fechafinalint": "2025-09-08T08:53:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f90e2f8d-4023-4cf7-95db-b1cc1560031f",
+    "lastsessionid": "a361a512-71a2-4de0-a40d-75d52567f3be",
+    "email": "lmateus@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-08T13:46:00.000Z",
+    "fechafinalint": "2025-09-08T13:51:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "076a26eb-5334-4dc5-ba5b-939aba22c1a4",
+    "lastsessionid": "2b468032-142e-4e0c-bcdf-ab56764877e6",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T06:45:00.000Z",
+    "fechafinalint": "2025-09-08T06:50:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e5f38c3c-0ddc-41b8-b7b4-1e0f7bf930ce",
+    "lastsessionid": "b64ca6c0-a87b-4722-9faf-87cb2df49757",
+    "email": "jf.sanchezs1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f8e84671-5213-4e2c-aa0e-68b03f42b1b6",
+    "lastsessionid": "49e0b2a2-b5b7-4f46-8071-83fe54ee3dbf",
+    "email": "af.santana@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "47bd3b4f-645b-43cc-8b1e-4358613e315f",
+    "lastsessionid": "3928c518-99bd-4b6d-82e6-8f6605535e07",
+    "email": "d.loewenstein@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "312d604f-01d2-41b4-89db-e0de613732e0",
+    "lastsessionid": "2b667517-b07f-4949-bdbb-eb4742bc80d7",
+    "email": "j.linaresz@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "bfa69bb6-189d-4c28-95d3-6394da51479e",
+    "lastsessionid": "b7ec2bde-c9db-48de-84f3-c08c50d7c133",
+    "email": "am.romerog1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "b83fb6a3-59b2-420b-9361-7024e0b4e9ca",
+    "lastsessionid": "91e77b4c-8beb-484f-bb1d-65f282f98e74",
+    "email": "m.ferraric@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2051bb29-d074-4a50-bab2-71deb2c3335d",
+    "lastsessionid": "1f8ed8f7-b270-4507-970d-81b9323c6762",
+    "email": "m.murilloc@uniandes.edu.co",
+    "numerointeracciones": 9,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "26514272-4809-4127-8e55-8e21c0ca3b0f",
+    "lastsessionid": "5a611af7-afad-4a5b-96ab-a981db1938bd",
+    "email": "k.diazs@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "2cc8114e-a6dc-4005-bcfb-a8eb69f8c8df",
+    "lastsessionid": "ec801b0e-f437-4b11-8e21-a54d4c17f2a4",
+    "email": "d.calixtob@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T08:57:00.000Z",
+    "fechafinalint": "2025-09-08T09:02:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7cef19e2-85bc-4f63-9298-45f6babe1130",
+    "lastsessionid": "28d52761-ba3c-4edc-b1d6-88645752cd44",
+    "email": "sv.salazarm1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "0502c41b-3684-47a7-96c0-24dbda45fc59",
+    "lastsessionid": "b9388cd4-331d-4e61-a3d2-737478e06986",
+    "email": "a.carrionp@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-08T08:56:00.000Z",
+    "fechafinalint": "2025-09-08T09:01:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6dedcd2d-ef5d-4c24-9abd-f17b5b6a35e8",
+    "lastsessionid": "b7ec2bde-c9db-48de-84f3-c08c50d7c133",
+    "email": "am.romerog1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T09:03:00.000Z",
+    "fechafinalint": "2025-09-08T09:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7db6e7ed-368f-408e-bed1-4b035e0d835e",
+    "lastsessionid": "a36bfd13-107f-4ea7-a46b-599c651274e1",
+    "email": "a.carrionp@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T09:05:00.000Z",
+    "fechafinalint": "2025-09-08T09:10:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "02f72913-4de4-4e6e-bbdd-b0a672986f9d",
+    "lastsessionid": "c5244467-dc4d-49c6-987f-74756fee9991",
+    "email": "t.osuna@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-08T09:02:00.000Z",
+    "fechafinalint": "2025-09-08T09:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e0927635-8c9e-4b11-918f-2a5370cd9a9e",
+    "lastsessionid": "b64ca6c0-a87b-4722-9faf-87cb2df49757",
+    "email": "jf.sanchezs1@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-08T09:02:00.000Z",
+    "fechafinalint": "2025-09-08T09:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1681ad2f-e6d5-4017-bc5e-d898778c4222",
+    "lastsessionid": "1bb2fc57-5846-4838-aeb0-7c42da89677e",
+    "email": "af.santana@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-08T09:02:00.000Z",
+    "fechafinalint": "2025-09-08T09:07:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "6e296b14-1c12-453a-84af-27d5c8e5d085",
+    "lastsessionid": "898b8215-1621-4a30-a5c1-727d2282b8b9",
+    "email": "k.diazs@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-08T09:07:00.000Z",
+    "fechafinalint": "2025-09-08T09:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ae228278-c4de-46be-9e56-4d28b8fb8b4c",
+    "lastsessionid": "2b667517-b07f-4949-bdbb-eb4742bc80d7",
+    "email": "j.linaresz@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-08T09:03:00.000Z",
+    "fechafinalint": "2025-09-08T09:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "e7250a1b-4ab5-4695-b158-e0218821929a",
+    "lastsessionid": "18b55b1e-cca6-413a-82e6-e0b1ccfd105c",
+    "email": "sv.salazarm1@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-08T09:03:00.000Z",
+    "fechafinalint": "2025-09-08T09:08:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "7d534fc0-1725-4bdc-8dc5-bfa4d2c573d6",
+    "lastsessionid": "71021aaa-de5c-4465-9806-051b06b566b0",
+    "email": "t.osuna@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T09:08:00.000Z",
+    "fechafinalint": "2025-09-08T09:13:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9d319c7c-f29f-462f-98c5-b03987188ef3",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T12:36:00.000Z",
+    "fechafinalint": "2025-09-09T12:41:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "42cff5db-50a2-45a1-82b1-ac34c8132da8",
+    "lastsessionid": "1ba0c658-cdd4-4157-b81a-5f54a9f005a0",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-08T09:57:00.000Z",
+    "fechafinalint": "2025-09-08T10:02:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "59f1525e-3071-47d9-9feb-65c185ce921c",
+    "lastsessionid": "12ab2f91-c71e-4da1-a4f4-61dccc9cb30b",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T16:15:00.000Z",
+    "fechafinalint": "2025-09-08T16:20:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "8e8f3622-0962-430c-9ecb-71eac171520b",
+    "lastsessionid": "12ab2f91-c71e-4da1-a4f4-61dccc9cb30b",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-08T16:17:00.000Z",
+    "fechafinalint": "2025-09-08T16:22:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "102ec291-69f7-4947-9d5a-7ff7e49610ca",
+    "lastsessionid": "e44f33a9-06ee-4c4c-bc38-87d6bd32ba1e",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T09:41:00.000Z",
+    "fechafinalint": "2025-09-09T09:46:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "081dffad-3887-4a68-908f-6cef41144d94",
+    "lastsessionid": "319ba3d0-9d76-4478-b5fe-6a2d362b3f79",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T10:35:00.000Z",
+    "fechafinalint": "2025-09-09T10:40:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "0e2222d3-a5a1-45e0-a851-57cc77578d5f",
+    "lastsessionid": "442b3e45-c0db-4464-9501-befd97d35d53",
+    "email": "p.villamarin@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-09T07:02:00.000Z",
+    "fechafinalint": "2025-09-09T07:07:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "cf2e1263-28e5-45d8-9e10-a063075af425",
+    "lastsessionid": "319ba3d0-9d76-4478-b5fe-6a2d362b3f79",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T11:21:00.000Z",
+    "fechafinalint": "2025-09-09T11:26:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "48047c70-8d99-46c5-9ebd-242d14fd1106",
+    "lastsessionid": "319ba3d0-9d76-4478-b5fe-6a2d362b3f79",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T11:42:00.000Z",
+    "fechafinalint": "2025-09-09T11:47:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "50e5984d-8f28-4bfa-a3ea-2f4a12421284",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T11:27:00.000Z",
+    "fechafinalint": "2025-09-09T11:32:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "641bc9da-932b-4636-a559-769a58ca5bd6",
+    "lastsessionid": "319ba3d0-9d76-4478-b5fe-6a2d362b3f79",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T11:49:00.000Z",
+    "fechafinalint": "2025-09-09T11:54:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "a4349acd-b4b8-48cc-bc36-4fb27d86b2d0",
+    "lastsessionid": "319ba3d0-9d76-4478-b5fe-6a2d362b3f79",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T11:59:00.000Z",
+    "fechafinalint": "2025-09-09T12:04:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "b161d1bb-bed6-4929-87b8-5fe790dc421e",
+    "lastsessionid": "319ba3d0-9d76-4478-b5fe-6a2d362b3f79",
+    "email": "af.gomezg1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T12:35:00.000Z",
+    "fechafinalint": "2025-09-09T12:40:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "165a87e0-9a8d-4bea-a7d7-22a62f2966a5",
+    "lastsessionid": "81a19b87-3791-45ce-a6e8-29c7a7ea3286",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T14:38:00.000Z",
+    "fechafinalint": "2025-09-09T14:43:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "72381e07-ea3d-4a50-a3de-74103ab58fb9",
+    "lastsessionid": "9bde1c0b-f390-4c68-9b04-3557e718d0ba",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T14:46:00.000Z",
+    "fechafinalint": "2025-09-09T14:51:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "153181ce-c5dc-4db7-9517-4366373cf024",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T14:52:00.000Z",
+    "fechafinalint": "2025-09-09T14:57:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "e257436b-7228-4b7a-8dac-a9bee723e4e3",
+    "lastsessionid": "40f1a796-2811-47cb-b077-a23a30e01041",
+    "email": "s.serranoa@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T14:57:00.000Z",
+    "fechafinalint": "2025-09-09T15:02:00.000Z",
+    "modelo": "BioFlowModulo3"
+  },
+  {
+    "uuid": "e73f1a83-5a8b-4cd3-a26d-805421c548ce",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T15:00:00.000Z",
+    "fechafinalint": "2025-09-09T15:05:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "bfc887c2-4159-420f-b251-7f946a22c858",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T15:09:00.000Z",
+    "fechafinalint": "2025-09-09T15:14:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "ed521715-af8a-4f60-aa3e-6c22056011df",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T15:34:00.000Z",
+    "fechafinalint": "2025-09-09T15:39:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "65231379-c7fe-4ef5-95a8-acd2cf0990a3",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T15:40:00.000Z",
+    "fechafinalint": "2025-09-09T15:45:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "3dc00164-0bc0-4595-807c-5280c6e29461",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T15:59:00.000Z",
+    "fechafinalint": "2025-09-09T16:04:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "34987000-8e78-4728-a44b-f7f49fd972fc",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T12:44:00.000Z",
+    "fechafinalint": "2025-09-09T12:49:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "d7ba4146-2cc8-422e-bb11-88e2232fb785",
+    "lastsessionid": "e57ab9b2-3367-43e1-87d0-28a2e4450b5b",
+    "email": "la.camacho@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T15:58:00.000Z",
+    "fechafinalint": "2025-09-09T16:03:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a41e9326-9fdb-4a2f-8be2-9ddec206d347",
+    "lastsessionid": "7abb1845-5c05-43d3-816e-fab6483dcd00",
+    "email": "g.aristizabal@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T16:05:00.000Z",
+    "fechafinalint": "2025-09-09T16:10:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "d9d69631-37d4-4149-a11f-bf696813b30a",
+    "lastsessionid": "e3fc7d9d-6cf5-46c2-9d52-390802401455",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T06:47:00.000Z",
+    "fechafinalint": "2025-09-09T06:52:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "bcba01a1-aa50-4a47-8e4e-f295d2581560",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T12:50:00.000Z",
+    "fechafinalint": "2025-09-09T12:55:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "95d519ac-efca-41b4-9cb7-c178766b623c",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-09T11:33:00.000Z",
+    "fechafinalint": "2025-09-09T11:38:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "288a9b3f-95e9-4320-8446-f8b647ca6315",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T13:22:00.000Z",
+    "fechafinalint": "2025-09-09T13:27:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "96352f2d-bf9d-46d4-af28-952257afb842",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T12:00:00.000Z",
+    "fechafinalint": "2025-09-09T12:05:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "10953201-4cf3-4d7e-85e0-f43a70d8da5a",
+    "lastsessionid": "0701535e-66df-4a1c-b9ee-b854895edeee",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T12:06:00.000Z",
+    "fechafinalint": "2025-09-09T12:11:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "50707306-5785-4490-812e-0a2712c0e824",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T13:35:00.000Z",
+    "fechafinalint": "2025-09-09T13:40:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "ad00fa35-91cd-4cd0-b647-8607944d43ef",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T13:43:00.000Z",
+    "fechafinalint": "2025-09-09T13:48:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "f001d19f-ce2c-4142-8bf9-890e1d603e33",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T13:56:00.000Z",
+    "fechafinalint": "2025-09-09T14:01:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "b0387aab-13b1-4a4e-8f9c-0f68fcd964f5",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T14:14:00.000Z",
+    "fechafinalint": "2025-09-09T14:19:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "608d9084-24ea-4deb-80c0-4dcf7c26b621",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T14:04:00.000Z",
+    "fechafinalint": "2025-09-09T14:09:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "a2509f71-c334-4081-a8d8-e681e668d68c",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T14:21:00.000Z",
+    "fechafinalint": "2025-09-09T14:26:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "33101be5-d6ae-42c5-ba96-9b4ea88ca703",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-09T14:30:00.000Z",
+    "fechafinalint": "2025-09-09T14:35:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "21658472-51cd-469d-bce6-5064fdfe1585",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T14:36:00.000Z",
+    "fechafinalint": "2025-09-09T14:41:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "7909ce6a-dad1-404f-99a6-47cced6312ed",
+    "lastsessionid": "9de6353e-71cd-4bed-a86d-42f98cdb8d67",
+    "email": "n.martinezb2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T17:37:00.000Z",
+    "fechafinalint": "2025-09-10T17:42:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "3e67e5c5-0802-455e-bc34-5b475368deef",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-09T14:43:00.000Z",
+    "fechafinalint": "2025-09-09T14:48:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "f4597a07-87c0-476c-b77d-f0bdb5b82d75",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T14:49:00.000Z",
+    "fechafinalint": "2025-09-09T14:54:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "a37fa94e-7e74-4324-b294-a9d479d55dd0",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-09T15:06:00.000Z",
+    "fechafinalint": "2025-09-09T15:11:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "a47898d6-4e31-4f48-80bf-becfddc758b1",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-09T15:15:00.000Z",
+    "fechafinalint": "2025-09-09T15:20:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "a3ef0926-a6e8-4d8d-aaf6-b0aecdaf2c94",
+    "lastsessionid": "7eac6c99-f46d-44e5-a6e4-17c53e1ad56b",
+    "email": "d.calixtob@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T14:38:00.000Z",
+    "fechafinalint": "2025-09-10T14:43:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "676186d7-9b60-43d4-8393-d8bc87763063",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-10T16:18:00.000Z",
+    "fechafinalint": "2025-09-10T16:23:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "0d0864b5-94c4-4ad7-9cdc-8c2976c2741f",
+    "lastsessionid": "832c648c-15b6-44c6-9b55-6aad5388a958",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T14:51:00.000Z",
+    "fechafinalint": "2025-09-10T14:56:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "7169e256-747a-4bee-9777-7be19e961689",
+    "lastsessionid": "9c8b350b-0df5-419f-81f5-57324b29fb1f",
+    "email": "d.sarmiento112@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T08:22:00.000Z",
+    "fechafinalint": "2025-09-10T08:27:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "8fdd3a6c-5032-4926-a545-404f9fff503a",
+    "lastsessionid": "dfd11799-b0a8-4b37-ac08-830806539af3",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-10T14:47:00.000Z",
+    "fechafinalint": "2025-09-10T14:52:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "f851dfa1-6a8a-4f5c-9d1f-9dc6a9673451",
+    "lastsessionid": "59327ba6-2938-4652-8bbc-59f14ef42e0e",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T14:53:00.000Z",
+    "fechafinalint": "2025-09-10T14:58:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a4dd97c1-48e8-4fa5-8636-5a3a874c61f5",
+    "lastsessionid": "3672404e-ee07-4b73-90d1-30729041fe66",
+    "email": "d.calixtob@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T14:55:00.000Z",
+    "fechafinalint": "2025-09-10T15:00:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1fc986f5-4ccd-447d-88c2-00cc44429470",
+    "lastsessionid": "1ec9c913-f713-4e8f-aa35-045716b26be6",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T15:01:00.000Z",
+    "fechafinalint": "2025-09-10T15:06:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ddd4630b-6d18-4b78-9e37-fe3519297c12",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-10T16:24:00.000Z",
+    "fechafinalint": "2025-09-10T16:29:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "2c9366d9-e8ce-4a37-917b-8ebf2fa864f8",
+    "lastsessionid": "103f55c1-0c69-47cb-be95-cd94e7a16374",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-10T15:18:00.000Z",
+    "fechafinalint": "2025-09-10T15:23:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "54ace1d7-e716-4649-8184-db5e4a5daa21",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T16:31:00.000Z",
+    "fechafinalint": "2025-09-10T16:36:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "0a1be5cc-de89-4ee5-97b0-d730e77c174d",
+    "lastsessionid": "e437c57d-036a-48b1-8a3d-4ace248edae4",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T15:53:00.000Z",
+    "fechafinalint": "2025-09-10T15:58:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a501b277-c22e-4b99-9521-a431cf628183",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T15:58:00.000Z",
+    "fechafinalint": "2025-09-10T16:03:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "57de922b-0638-4f8b-b2ef-73c3acf41794",
+    "lastsessionid": "d06565bd-f97c-479a-9172-2df4c47806ca",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T16:03:00.000Z",
+    "fechafinalint": "2025-09-10T16:08:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "87ee26b3-c57c-490a-913d-22a50d6d0fee",
+    "lastsessionid": "c7f8e77d-a1d9-49f6-966d-99908b96d8e7",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T16:07:00.000Z",
+    "fechafinalint": "2025-09-10T16:12:00.000Z",
+    "modelo": "IMEC1410AsistenteInformes"
+  },
+  {
+    "uuid": "c0af018c-8418-4747-a04c-531a5fec5bbb",
+    "lastsessionid": "687597f8-a044-4a92-8b98-d294ab9a252e",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T08:42:00.000Z",
+    "fechafinalint": "2025-09-10T08:47:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "de7db35d-1bb9-4ea8-8bf6-7631e8e4320b",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T16:12:00.000Z",
+    "fechafinalint": "2025-09-10T16:17:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "fee450e9-439a-4500-8182-e8cbf32fe4ae",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T16:37:00.000Z",
+    "fechafinalint": "2025-09-10T16:42:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "bc4e4d2b-ace0-47ba-a436-5394ae8d3fcf",
+    "lastsessionid": "2e4f34f9-9749-4c2c-b392-e520de162d9b",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T16:45:00.000Z",
+    "fechafinalint": "2025-09-10T16:50:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "2741c96a-a132-4eff-b95d-4dac47d33c84",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T16:47:00.000Z",
+    "fechafinalint": "2025-09-10T16:52:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "0847017d-bc0c-422a-b27f-7147db2d5b57",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T16:53:00.000Z",
+    "fechafinalint": "2025-09-10T16:58:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "5ef5d7e9-a604-4d59-b665-ddfad3a7bd04",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T17:03:00.000Z",
+    "fechafinalint": "2025-09-10T17:08:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "6ede3b8e-6d84-4d2f-b444-eef9e16a62f1",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T17:14:00.000Z",
+    "fechafinalint": "2025-09-10T17:19:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "6573c894-20d1-407c-bf12-a540eb6b56fd",
+    "lastsessionid": "7afd6b3b-c44c-4e0c-baa1-dd73d29dfb33",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T17:25:00.000Z",
+    "fechafinalint": "2025-09-10T17:30:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "89cf57ba-0495-42c7-8133-5dcd1edbe3d0",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T17:26:00.000Z",
+    "fechafinalint": "2025-09-10T17:31:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "9caa0fd0-b696-4a28-95af-a3b7c14bcbcf",
+    "lastsessionid": "2babad46-0b0d-43d1-9c97-fe01aeb61c06",
+    "email": "a.serranoa2@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-10T17:49:00.000Z",
+    "fechafinalint": "2025-09-10T17:54:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "1d243aac-89a4-40ff-b7d1-6c84bf66a16b",
+    "lastsessionid": "976ee072-d5d8-475c-b97c-59a23017129b",
+    "email": "prueba1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T07:29:00.000Z",
+    "fechafinalint": "2025-09-10T07:34:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "bb330867-0a77-4cd3-91b9-4b1d9549f4ba",
+    "lastsessionid": "209d93b6-9289-40b0-9dce-ee12aeaa3c75",
+    "email": "n.ramirezt2@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T08:42:00.000Z",
+    "fechafinalint": "2025-09-10T08:47:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "ecc8f3a0-6330-4b8b-b110-f48767be488a",
+    "lastsessionid": "24d382b1-22ce-478f-9815-a57cb34eed99",
+    "email": "la.camacho@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T08:41:00.000Z",
+    "fechafinalint": "2025-09-10T08:46:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "4f8414f6-45f2-43a9-8c53-3f44a9d823eb",
+    "lastsessionid": "5d07835c-6e2f-4ac0-8bb1-1c32a79eadf9",
+    "email": "m.manriquec@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T08:45:00.000Z",
+    "fechafinalint": "2025-09-10T08:50:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "35b8f5b5-895c-4720-9460-2380857414db",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T09:06:00.000Z",
+    "fechafinalint": "2025-09-10T09:11:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "9d263109-e839-46f0-a405-0b34db973222",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T09:16:00.000Z",
+    "fechafinalint": "2025-09-10T09:21:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "fb1468cc-692a-4ff6-9cde-dedd689a9d5f",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T09:38:00.000Z",
+    "fechafinalint": "2025-09-10T09:43:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "306397ec-6ddf-47bc-9181-b6b90edf8679",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T09:30:00.000Z",
+    "fechafinalint": "2025-09-10T09:35:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "86dfd6fd-7cdf-4e24-a72e-76f4978ad08c",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T09:50:00.000Z",
+    "fechafinalint": "2025-09-10T09:55:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "6f51d7c8-fd9f-4683-a7c4-86b34ecaffb7",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T09:57:00.000Z",
+    "fechafinalint": "2025-09-10T10:02:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "5dbaa7c1-536d-463b-bb9e-fe648471a083",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T10:31:00.000Z",
+    "fechafinalint": "2025-09-10T10:36:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "671c19e4-5b78-481a-9edf-3df601f26b30",
+    "lastsessionid": "4f6e4116-72c0-4c92-81d1-75b57dc0a9f6",
+    "email": "ad.morenos1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:48:00.000Z",
+    "fechafinalint": "2025-09-10T13:53:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "e239306a-a6bc-494d-8a40-49f3bbbc0996",
+    "lastsessionid": "ba6706d9-9f66-4870-8af7-f80b11aeebab",
+    "email": "a.uchima@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:49:00.000Z",
+    "fechafinalint": "2025-09-10T13:54:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "b012e8ef-c53c-4ef6-88bb-2ef6234d653a",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-10T10:48:00.000Z",
+    "fechafinalint": "2025-09-10T10:53:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "66ff05a2-705f-4bf6-8603-51e027dd8947",
+    "lastsessionid": "b273b40c-ccba-4cfd-a566-fe5f9bd88d9f",
+    "email": "n.lozanog@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T13:51:00.000Z",
+    "fechafinalint": "2025-09-10T13:56:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "3dc5e633-c4f6-444b-9e9c-f15717de5df2",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T10:54:00.000Z",
+    "fechafinalint": "2025-09-10T10:59:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "cf45728d-fb63-4421-921f-2c2b30244131",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T11:02:00.000Z",
+    "fechafinalint": "2025-09-10T11:07:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "7112ae24-f603-428c-8a53-07a368b2d629",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T11:07:00.000Z",
+    "fechafinalint": "2025-09-10T11:12:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "e873a451-7edc-4f57-837e-5f59cc05fe2b",
+    "lastsessionid": "1171258c-f00b-45f8-b203-3d81abf725a1",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:55:00.000Z",
+    "fechafinalint": "2025-09-10T14:00:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "604510e4-7f25-467b-a464-a803d0a1404b",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T11:10:00.000Z",
+    "fechafinalint": "2025-09-10T11:15:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "7ad14b30-f343-48eb-b12c-317e1cb293ff",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T11:16:00.000Z",
+    "fechafinalint": "2025-09-10T11:21:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "e4b3b7a5-b865-427f-861a-f447b334efaa",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T11:26:00.000Z",
+    "fechafinalint": "2025-09-10T11:31:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "fc4e380a-5631-4340-a640-42af477f0255",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T11:22:00.000Z",
+    "fechafinalint": "2025-09-10T11:27:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "cced49c0-20a5-4b4c-ba8e-b6aab1cb9f88",
+    "lastsessionid": "cbfa326a-7ad5-4341-b43c-a172f5a94b95",
+    "email": "m.reina@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T11:29:00.000Z",
+    "fechafinalint": "2025-09-10T11:34:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "20a0011b-2147-4a1e-9311-18c5da4b9da1",
+    "lastsessionid": "ba6706d9-9f66-4870-8af7-f80b11aeebab",
+    "email": "a.uchima@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T14:35:00.000Z",
+    "fechafinalint": "2025-09-10T14:40:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "5a2e0bbe-cc27-40ff-9678-b3f538f1b24b",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T11:54:00.000Z",
+    "fechafinalint": "2025-09-10T11:59:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "5cc559db-15dd-42d6-ab49-3d09817fbb34",
+    "lastsessionid": "ba6706d9-9f66-4870-8af7-f80b11aeebab",
+    "email": "a.uchima@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-10T13:56:00.000Z",
+    "fechafinalint": "2025-09-10T14:01:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "cbd90f88-f74e-4615-ab42-df3e21ce912e",
+    "lastsessionid": "16035d3c-24b5-45eb-bcf8-f881a67d1494",
+    "email": "a.espanol@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T12:58:00.000Z",
+    "fechafinalint": "2025-09-10T13:03:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "987f53d4-8b7e-419f-9209-cf7bed542753",
+    "lastsessionid": "abf52ee3-987e-4421-8bf1-c5eaa8d0aa3b",
+    "email": "n.martinezb2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:08:00.000Z",
+    "fechafinalint": "2025-09-10T13:13:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "f7f304a4-d5ea-4522-890b-1ee39f421b23",
+    "lastsessionid": "16035d3c-24b5-45eb-bcf8-f881a67d1494",
+    "email": "a.espanol@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T13:07:00.000Z",
+    "fechafinalint": "2025-09-10T13:12:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "d83171aa-5d3e-45fd-b8d2-980e97a322a5",
+    "lastsessionid": "ad476357-c695-4007-bca8-bde37f76a795",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:30:00.000Z",
+    "fechafinalint": "2025-09-10T13:35:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "a2c3f8cb-f1ff-4348-b8b4-c78d1f7d1d4f",
+    "lastsessionid": "abf52ee3-987e-4421-8bf1-c5eaa8d0aa3b",
+    "email": "n.martinezb2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:38:00.000Z",
+    "fechafinalint": "2025-09-10T13:43:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "be5b0350-a379-4d58-b209-b4cf3905cf0a",
+    "lastsessionid": "16035d3c-24b5-45eb-bcf8-f881a67d1494",
+    "email": "a.espanol@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:38:00.000Z",
+    "fechafinalint": "2025-09-10T13:43:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "d9b49a58-b034-476b-bbaa-ba2a1dc08d8f",
+    "lastsessionid": "4f6e4116-72c0-4c92-81d1-75b57dc0a9f6",
+    "email": "ad.morenos1@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-10T13:39:00.000Z",
+    "fechafinalint": "2025-09-10T13:44:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "46ad9bca-0d2d-4caf-ac0f-3f8831ba6b14",
+    "lastsessionid": "1171258c-f00b-45f8-b203-3d81abf725a1",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:40:00.000Z",
+    "fechafinalint": "2025-09-10T13:45:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "a219b42a-31f1-4691-85eb-f78612ca2226",
+    "lastsessionid": "1171258c-f00b-45f8-b203-3d81abf725a1",
+    "email": "s.aguilerag@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T13:46:00.000Z",
+    "fechafinalint": "2025-09-10T13:51:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "1a18202b-a7d0-47b7-9c5b-6c9ee41b6826",
+    "lastsessionid": "59c7616f-8ce3-488a-a7ca-84ea42bfe6df",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T17:40:00.000Z",
+    "fechafinalint": "2025-09-11T17:45:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "5b422eee-dd7e-451c-994d-14d41ef7c86b",
+    "lastsessionid": "ccea092f-c164-4b7d-bbc9-16952d902575",
+    "email": "c.sanchezp2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-11T07:56:00.000Z",
+    "fechafinalint": "2025-09-11T08:01:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "9560a768-8aa0-49fe-9ddd-6e4d73a130c3",
+    "lastsessionid": "ba6706d9-9f66-4870-8af7-f80b11aeebab",
+    "email": "a.uchima@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-10T14:02:00.000Z",
+    "fechafinalint": "2025-09-10T14:07:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "2ac1dfc7-df47-4ea6-be48-ad61918839d4",
+    "lastsessionid": "ba6706d9-9f66-4870-8af7-f80b11aeebab",
+    "email": "a.uchima@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T14:08:00.000Z",
+    "fechafinalint": "2025-09-10T14:13:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "77e7b04f-479c-42b2-8adf-59e87c1ddc09",
+    "lastsessionid": "c8be3965-e611-43d7-8115-c1f76d5f65e2",
+    "email": "n.lozanog@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T14:26:00.000Z",
+    "fechafinalint": "2025-09-10T14:31:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "5bb26076-1516-48ac-8061-beb72ca6226f",
+    "lastsessionid": "75b050cb-f776-4bd6-9630-272426392103",
+    "email": "c.sanchezp2@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-10T14:34:00.000Z",
+    "fechafinalint": "2025-09-10T14:39:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "1a8eb54d-9997-4b91-86a3-137c52fe9843",
+    "lastsessionid": "135f60dc-ab01-46ec-a0ff-708a944e715b",
+    "email": "c.sanchezp2@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-11T15:40:00.000Z",
+    "fechafinalint": "2025-09-11T15:45:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "56892139-ebb7-42b6-a37b-70dc554fdfbd",
+    "lastsessionid": "c8be3965-e611-43d7-8115-c1f76d5f65e2",
+    "email": "n.lozanog@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-10T14:40:00.000Z",
+    "fechafinalint": "2025-09-10T14:45:00.000Z",
+    "modelo": "IBIO2650TutorEjercicios"
+  },
+  {
+    "uuid": "e5e9b1b5-f830-485a-ac12-f1237b723047",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-10T15:30:00.000Z",
+    "fechafinalint": "2025-09-10T15:35:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "2a2cac43-9aef-436a-a3c1-102dd1b89151",
+    "lastsessionid": "135f60dc-ab01-46ec-a0ff-708a944e715b",
+    "email": "c.sanchezp2@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-11T15:34:00.000Z",
+    "fechafinalint": "2025-09-11T15:39:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "286be9f3-dc54-4efa-9ea6-57c404c31af0",
+    "lastsessionid": "d64fdc17-3107-413b-b4ea-953fb50e4421",
+    "email": "a.uchima@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T16:20:00.000Z",
+    "fechafinalint": "2025-09-11T16:25:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "754776a3-f59b-4954-937c-1e9c7a4b6f5c",
+    "lastsessionid": "59c7616f-8ce3-488a-a7ca-84ea42bfe6df",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T06:00:00.000Z",
+    "fechafinalint": "2025-09-11T06:05:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "a8bbe90b-18d3-4f9c-88f4-8085bef33a1d",
+    "lastsessionid": "59c7616f-8ce3-488a-a7ca-84ea42bfe6df",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T06:06:00.000Z",
+    "fechafinalint": "2025-09-11T06:11:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "5cd35bac-ac08-4bae-8008-9c44653157cd",
+    "lastsessionid": "0f3e5d44-6756-4e8b-a1c9-9266fa6c3d42",
+    "email": "ad.morenos1@uniandes.edu.co",
+    "numerointeracciones": 14,
+    "fechainicialint": "2025-09-11T08:02:00.000Z",
+    "fechafinalint": "2025-09-11T08:07:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "e4264b99-9d60-4a3a-803f-4b4525455da5",
+    "lastsessionid": "0f3e5d44-6756-4e8b-a1c9-9266fa6c3d42",
+    "email": "ad.morenos1@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T08:08:00.000Z",
+    "fechafinalint": "2025-09-11T08:13:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "6d19b59d-efd0-455b-aeec-ab1947c77dca",
+    "lastsessionid": "59c7616f-8ce3-488a-a7ca-84ea42bfe6df",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T08:08:00.000Z",
+    "fechafinalint": "2025-09-11T08:13:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "4f135eb0-606d-4fa0-acf5-8a25b9ae6524",
+    "lastsessionid": "e072d3a4-e930-4ec5-8394-7cc265b58e4b",
+    "email": "jj.garcial1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-11T08:13:00.000Z",
+    "fechafinalint": "2025-09-11T08:18:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "a1dabcdf-cef7-40f7-99dc-74641433705c",
+    "lastsessionid": "59c7616f-8ce3-488a-a7ca-84ea42bfe6df",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-11T08:14:00.000Z",
+    "fechafinalint": "2025-09-11T08:19:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "9ff320c7-2c98-4b0b-8df3-98745d47aba8",
+    "lastsessionid": "e072d3a4-e930-4ec5-8394-7cc265b58e4b",
+    "email": "jj.garcial1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T08:28:00.000Z",
+    "fechafinalint": "2025-09-11T08:33:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "54fdece6-3a24-4b0b-b081-9674d7b59618",
+    "lastsessionid": "59c7616f-8ce3-488a-a7ca-84ea42bfe6df",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T08:34:00.000Z",
+    "fechafinalint": "2025-09-11T08:39:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "c06fb89d-623a-4323-a67e-5abd23a2e7cc",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-11T09:51:00.000Z",
+    "fechafinalint": "2025-09-11T09:56:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "39fa4b03-8778-4bc8-b2c6-b1574e653c52",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 4,
+    "fechainicialint": "2025-09-11T09:07:00.000Z",
+    "fechafinalint": "2025-09-11T09:12:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "1408df39-9d23-4518-af71-4f2410137c61",
+    "lastsessionid": "None",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T09:20:00.000Z",
+    "fechafinalint": "2025-09-11T09:25:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "ac95d7ae-5740-4d70-af2f-e0cb2c34de4d",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T09:26:00.000Z",
+    "fechafinalint": "2025-09-11T09:31:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "764a8b12-49fd-4278-959c-96b19948c66d",
+    "lastsessionid": "e072d3a4-e930-4ec5-8394-7cc265b58e4b",
+    "email": "jj.garcial1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-11T09:34:00.000Z",
+    "fechafinalint": "2025-09-11T09:39:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "721f9370-a51d-4b4d-b65f-288a55653985",
+    "lastsessionid": "None",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T09:57:00.000Z",
+    "fechafinalint": "2025-09-11T10:02:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "407037a7-b2c2-4a82-9e93-989a0e586a8b",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-12T13:59:00.000Z",
+    "fechafinalint": "2025-09-12T14:04:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "8f619a79-772f-4c31-a79c-4f7f1907a6fa",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T09:33:00.000Z",
+    "fechafinalint": "2025-09-11T09:38:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "e4c8430c-9871-4965-9b9e-2d861e58b378",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-12T14:05:00.000Z",
+    "fechafinalint": "2025-09-12T14:10:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "8114cf74-ce55-417f-aa12-1f4e138e2383",
+    "lastsessionid": "312796bf-acba-4647-be1f-594a11607ca3",
+    "email": "j.burbanog@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T10:54:00.000Z",
+    "fechafinalint": "2025-09-11T10:59:00.000Z",
+    "modelo": "ICYA2401_Tutor_Mecanica_Fluidos"
+  },
+  {
+    "uuid": "a365e69c-9e0a-4507-acea-5bbf8a0ade4b",
+    "lastsessionid": "e072d3a4-e930-4ec5-8394-7cc265b58e4b",
+    "email": "jj.garcial1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-11T09:41:00.000Z",
+    "fechafinalint": "2025-09-11T09:46:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "e685b163-0f06-4cf4-931b-aeb167086011",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-11T09:39:00.000Z",
+    "fechafinalint": "2025-09-11T09:44:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "354f4bf7-c881-4499-9dd5-cf904a21c730",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-12T14:14:00.000Z",
+    "fechafinalint": "2025-09-12T14:19:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "acbb04dc-bd0a-4fdd-b9eb-c4bb42d1fee1",
+    "lastsessionid": "e072d3a4-e930-4ec5-8394-7cc265b58e4b",
+    "email": "jj.garcial1@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-11T09:47:00.000Z",
+    "fechafinalint": "2025-09-11T09:52:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "28d9fe52-3570-40de-afb7-92ef261a617c",
+    "lastsessionid": "25cc4f50-0511-4e3f-8f8e-b1ddb6d1bb01",
+    "email": "s.gallardoj@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-11T09:45:00.000Z",
+    "fechafinalint": "2025-09-11T09:50:00.000Z",
+    "modelo": "IBIO2250FenomenosModulo1"
+  },
+  {
+    "uuid": "ccf1a5cb-c321-48c8-a86d-02a192092ef7",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainicialint": "2025-09-12T14:20:00.000Z",
+    "fechafinalint": "2025-09-12T14:25:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "08299886-4c8f-4f39-bf9e-655378029bd3",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-12T14:26:00.000Z",
+    "fechafinalint": "2025-09-12T14:31:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "c3c0c337-f60f-472c-a25b-d628fc33c997",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-12T13:13:00.000Z",
+    "fechafinalint": "2025-09-12T13:18:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "ea1a151c-4d99-4d7a-87c8-9346aacbeb40",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-12T15:11:00.000Z",
+    "fechafinalint": "2025-09-12T15:16:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "db0e9717-0593-463e-bac4-55f452806255",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-12T13:29:00.000Z",
+    "fechafinalint": "2025-09-12T13:34:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "e6c27734-85b8-432f-9798-500de6fde1b8",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-12T13:40:00.000Z",
+    "fechafinalint": "2025-09-12T13:45:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "0d420e18-99a3-4b09-8a6c-fe906fcabf7d",
+    "lastsessionid": "6b19da9d-01a0-459d-9ff3-a0673b29b589",
+    "email": "ds.ramosm1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-12T16:30:00.000Z",
+    "fechafinalint": "2025-09-12T16:35:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "9870c069-a3fa-47e1-abf4-f6000fb1049c",
+    "lastsessionid": "246eaec8-079e-4236-983d-e886e1f65aa0",
+    "email": "a.guerreros@uniandes.edu.co",
+    "numerointeracciones": 1,
+    "fechainicialint": "2025-09-12T07:57:00.000Z",
+    "fechafinalint": "2025-09-12T08:02:00.000Z",
+    "modelo": "MINE4101AsistentePreprocesamiento"
+  },
+  {
+    "uuid": "e456127b-03bb-4cc6-824c-b82bc75c5944",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 6,
+    "fechainicialint": "2025-09-12T13:46:00.000Z",
+    "fechafinalint": "2025-09-12T13:51:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "02703b12-d171-443b-a91b-2de32ac43ebe",
+    "lastsessionid": "37a9728d-60ce-49c6-a107-c6d7f88b0123",
+    "email": "jp.reyes39@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-12T13:52:00.000Z",
+    "fechafinalint": "2025-09-12T13:57:00.000Z",
+    "modelo": "MINE4101CreacionNotebooks"
+  },
+  {
+    "uuid": "f3ae7dd2-2812-48ca-ad52-ffdefdbdd13e",
+    "lastsessionid": "a2da7866-25f8-44d2-a706-325d515d86f9",
+    "email": "ce.ramirezc1@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainicialint": "2025-09-15T14:55:00.000Z",
+    "fechafinalint": "2025-09-15T15:00:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "d4e96aba-af3a-46fb-b5cc-a4310f75de2e",
+    "lastsessionid": "a2da7866-25f8-44d2-a706-325d515d86f9",
+    "email": "ce.ramirezc1@uniandes.edu.co",
+    "numerointeracciones": 7,
+    "fechainicialint": "2025-09-15T15:01:00.000Z",
+    "fechafinalint": "2025-09-15T15:06:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  },
+  {
+    "uuid": "a1770582-9184-4583-9c2e-7905f46cacd2",
+    "lastsessionid": "a2da7866-25f8-44d2-a706-325d515d86f9",
+    "email": "ce.ramirezc1@uniandes.edu.co",
+    "numerointeracciones": 2,
+    "fechainicialint": "2025-09-15T15:07:00.000Z",
+    "fechafinalint": "2025-09-15T15:12:00.000Z",
+    "modelo": "IQYA1031EcuacionesLineales"
+  }
+]

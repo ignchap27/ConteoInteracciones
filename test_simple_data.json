@@ -1,0 +1,34 @@
+[
+  {
+    "uuid": "511673ef-794d-45ee-b2b1-a00abe16224d",
+    "lastsessionid": "ca8938da-a6c9-4434-9262-1a13e1265618",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainteraccion": "2025-07-28T05:00:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria"
+  },
+  {
+    "uuid": "n",
+    "lastsessionid": "578db08b-4e6d-43bf-b28c-2f7818c1a9b2",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 5,
+    "fechainteraccion": "2025-07-28T05:00:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria3"
+  },
+  {
+    "uuid": "863cc3c0-e1ef-4df6-8638-315d1b0f68f2",
+    "lastsessionid": "fa21bbba-d151-4444-894f-2e8d048d9472",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 13,
+    "fechainteraccion": "2025-07-29T05:00:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria"
+  },
+  {
+    "uuid": "d67bd824-ba4c-4958-b45d-086b8023deba",
+    "lastsessionid": "87fa66c1-ed01-4981-b023-2b9bc7aa730b",
+    "email": "t.sierras@uniandes.edu.co",
+    "numerointeracciones": 3,
+    "fechainteraccion": "2025-07-29T05:00:00.000Z",
+    "modelo": "FuncionAlmacenamientoMemoria24H"
+  }
+]

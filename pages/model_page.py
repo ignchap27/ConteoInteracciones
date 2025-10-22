@@ -1,10 +1,28 @@
 import streamlit as st # type: ignore
-from pages.home_page import df_database, df_lista_estudiantes
+from pages.home_page import df_lista_estudiantes, url
+import requests
+import pandas as pd
 
 def select_model(model):
     st.session_state.selected_model = model
 
-# Creacion de los botones
+st.cache_data(ttl="1m", show_spinner=True) # Cada 5 minutos se actualizan los datos
+def load_data():
+    headers = {
+        "Authorization": "Bearer TokenIAU"
+    }
+
+    response_data = requests.get(url, headers=headers, timeout=120)
+
+    df_db = pd.DataFrame(response_data.json())
+
+    df_db['fechafinalint'] = pd.to_datetime(df_db['fechafinalint'])
+    df_db['fechainicialint'] = pd.to_datetime(df_db['fechainicialint'])
+    
+    return df_db
+
+df_database = load_data()
+
 model_list = df_database['modelo'].unique()
 model_list.sort()
 
